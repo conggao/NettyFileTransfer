@@ -1,0 +1,1059 @@
+2017-06-19 11:40:03,713-io.netty.util.internal.logging.InternalLoggerFactory-main-DEBUG: Using SLF4J as the default logging framework
+2017-06-19 11:40:03,730-io.netty.channel.MultithreadEventLoopGroup-main-DEBUG: -Dio.netty.eventLoopThreads: 8
+2017-06-19 11:40:03,767-io.netty.util.internal.PlatformDependent0-main-DEBUG: java.nio.Buffer.address: available
+2017-06-19 11:40:03,768-io.netty.util.internal.PlatformDependent0-main-DEBUG: sun.misc.Unsafe.theUnsafe: available
+2017-06-19 11:40:03,768-io.netty.util.internal.PlatformDependent0-main-DEBUG: sun.misc.Unsafe.copyMemory: available
+2017-06-19 11:40:03,769-io.netty.util.internal.PlatformDependent0-main-DEBUG: direct buffer constructor: available
+2017-06-19 11:40:03,769-io.netty.util.internal.PlatformDependent0-main-DEBUG: java.nio.Bits.unaligned: available, true
+2017-06-19 11:40:03,769-io.netty.util.internal.PlatformDependent0-main-DEBUG: java.nio.DirectByteBuffer.<init>(long, int): available
+2017-06-19 11:40:03,770-io.netty.util.internal.Cleaner0-main-DEBUG: java.nio.ByteBuffer.cleaner(): available
+2017-06-19 11:40:03,771-io.netty.util.internal.PlatformDependent-main-DEBUG: Platform: Windows
+2017-06-19 11:40:03,771-io.netty.util.internal.PlatformDependent-main-DEBUG: Java version: 8
+2017-06-19 11:40:03,771-io.netty.util.internal.PlatformDependent-main-DEBUG: -Dio.netty.noUnsafe: false
+2017-06-19 11:40:03,771-io.netty.util.internal.PlatformDependent-main-DEBUG: sun.misc.Unsafe: available
+2017-06-19 11:40:03,772-io.netty.util.internal.PlatformDependent-main-DEBUG: -Dio.netty.noJavassist: false
+2017-06-19 11:40:04,025-io.netty.util.internal.PlatformDependent-main-DEBUG: Javassist: available
+2017-06-19 11:40:04,025-io.netty.util.internal.PlatformDependent-main-DEBUG: -Dio.netty.tmpdir: C:\Users\pc\AppData\Local\Temp (java.io.tmpdir)
+2017-06-19 11:40:04,025-io.netty.util.internal.PlatformDependent-main-DEBUG: -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2017-06-19 11:40:04,025-io.netty.util.internal.PlatformDependent-main-DEBUG: -Dio.netty.noPreferDirect: false
+2017-06-19 11:40:04,025-io.netty.util.internal.PlatformDependent-main-DEBUG: io.netty.maxDirectMemory: 1879048192 bytes
+2017-06-19 11:40:04,041-io.netty.channel.nio.NioEventLoop-main-DEBUG: -Dio.netty.noKeySetOptimization: false
+2017-06-19 11:40:04,041-io.netty.channel.nio.NioEventLoop-main-DEBUG: -Dio.netty.selectorAutoRebuildThreshold: 512
+2017-06-19 11:40:04,042-io.netty.util.internal.PlatformDependent-main-DEBUG: org.jctools-core.MpscChunkedArrayQueue: available
+2017-06-19 11:40:04,128-io.netty.channel.DefaultChannelId-main-DEBUG: -Dio.netty.processId: 8596 (auto-detected)
+2017-06-19 11:40:04,130-io.netty.util.NetUtil-main-DEBUG: -Djava.net.preferIPv4Stack: false
+2017-06-19 11:40:04,130-io.netty.util.NetUtil-main-DEBUG: -Djava.net.preferIPv6Addresses: false
+2017-06-19 11:40:04,184-io.netty.util.NetUtil-main-DEBUG: Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+2017-06-19 11:40:04,184-io.netty.util.NetUtil-main-DEBUG: \proc\sys\net\core\somaxconn: 200 (non-existent)
+2017-06-19 11:40:04,235-io.netty.channel.DefaultChannelId-main-DEBUG: -Dio.netty.machineId: 00:00:00:00:00:00:00:e0 (auto-detected)
+2017-06-19 11:40:04,237-io.netty.util.internal.ThreadLocalRandom-main-DEBUG: -Dio.netty.initialSeedUniquifier: 0x9eb2612e28166c84
+2017-06-19 11:40:04,249-io.netty.util.ResourceLeakDetector-main-DEBUG: -Dio.netty.leakDetection.level: simple
+2017-06-19 11:40:04,249-io.netty.util.ResourceLeakDetector-main-DEBUG: -Dio.netty.leakDetection.maxRecords: 4
+2017-06-19 11:40:04,279-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.numHeapArenas: 8
+2017-06-19 11:40:04,279-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.numDirectArenas: 8
+2017-06-19 11:40:04,279-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.pageSize: 8192
+2017-06-19 11:40:04,279-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.maxOrder: 11
+2017-06-19 11:40:04,279-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.chunkSize: 16777216
+2017-06-19 11:40:04,279-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.tinyCacheSize: 512
+2017-06-19 11:40:04,279-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.smallCacheSize: 256
+2017-06-19 11:40:04,279-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.normalCacheSize: 64
+2017-06-19 11:40:04,279-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2017-06-19 11:40:04,280-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.cacheTrimInterval: 8192
+2017-06-19 11:40:04,287-io.netty.buffer.ByteBufUtil-main-DEBUG: -Dio.netty.allocator.type: pooled
+2017-06-19 11:40:04,287-io.netty.buffer.ByteBufUtil-main-DEBUG: -Dio.netty.threadLocalDirectBufferSize: 65536
+2017-06-19 11:40:04,287-io.netty.buffer.ByteBufUtil-main-DEBUG: -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2017-06-19 11:40:04,297-org.server.netty.NettyProtoServer-main-DEBUG: 服务端口为:7766
+2017-06-19 11:40:16,029-io.netty.util.internal.logging.InternalLoggerFactory-main-DEBUG: Using SLF4J as the default logging framework
+2017-06-19 11:40:16,034-io.netty.channel.MultithreadEventLoopGroup-main-DEBUG: -Dio.netty.eventLoopThreads: 8
+2017-06-19 11:40:16,060-io.netty.util.internal.PlatformDependent0-main-DEBUG: java.nio.Buffer.address: available
+2017-06-19 11:40:16,061-io.netty.util.internal.PlatformDependent0-main-DEBUG: sun.misc.Unsafe.theUnsafe: available
+2017-06-19 11:40:16,061-io.netty.util.internal.PlatformDependent0-main-DEBUG: sun.misc.Unsafe.copyMemory: available
+2017-06-19 11:40:16,062-io.netty.util.internal.PlatformDependent0-main-DEBUG: direct buffer constructor: available
+2017-06-19 11:40:16,062-io.netty.util.internal.PlatformDependent0-main-DEBUG: java.nio.Bits.unaligned: available, true
+2017-06-19 11:40:16,063-io.netty.util.internal.PlatformDependent0-main-DEBUG: java.nio.DirectByteBuffer.<init>(long, int): available
+2017-06-19 11:40:16,063-io.netty.util.internal.Cleaner0-main-DEBUG: java.nio.ByteBuffer.cleaner(): available
+2017-06-19 11:40:16,064-io.netty.util.internal.PlatformDependent-main-DEBUG: Platform: Windows
+2017-06-19 11:40:16,064-io.netty.util.internal.PlatformDependent-main-DEBUG: Java version: 8
+2017-06-19 11:40:16,064-io.netty.util.internal.PlatformDependent-main-DEBUG: -Dio.netty.noUnsafe: false
+2017-06-19 11:40:16,064-io.netty.util.internal.PlatformDependent-main-DEBUG: sun.misc.Unsafe: available
+2017-06-19 11:40:16,065-io.netty.util.internal.PlatformDependent-main-DEBUG: -Dio.netty.noJavassist: false
+2017-06-19 11:40:16,178-io.netty.util.internal.PlatformDependent-main-DEBUG: Javassist: available
+2017-06-19 11:40:16,179-io.netty.util.internal.PlatformDependent-main-DEBUG: -Dio.netty.tmpdir: C:\Users\pc\AppData\Local\Temp (java.io.tmpdir)
+2017-06-19 11:40:16,179-io.netty.util.internal.PlatformDependent-main-DEBUG: -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2017-06-19 11:40:16,179-io.netty.util.internal.PlatformDependent-main-DEBUG: -Dio.netty.noPreferDirect: false
+2017-06-19 11:40:16,179-io.netty.util.internal.PlatformDependent-main-DEBUG: io.netty.maxDirectMemory: 1879048192 bytes
+2017-06-19 11:40:16,197-io.netty.channel.nio.NioEventLoop-main-DEBUG: -Dio.netty.noKeySetOptimization: false
+2017-06-19 11:40:16,198-io.netty.channel.nio.NioEventLoop-main-DEBUG: -Dio.netty.selectorAutoRebuildThreshold: 512
+2017-06-19 11:40:16,200-io.netty.util.internal.PlatformDependent-main-DEBUG: org.jctools-core.MpscChunkedArrayQueue: available
+2017-06-19 11:40:16,282-io.netty.channel.DefaultChannelId-main-DEBUG: -Dio.netty.processId: 9364 (auto-detected)
+2017-06-19 11:40:16,288-io.netty.util.NetUtil-main-DEBUG: -Djava.net.preferIPv4Stack: false
+2017-06-19 11:40:16,288-io.netty.util.NetUtil-main-DEBUG: -Djava.net.preferIPv6Addresses: false
+2017-06-19 11:40:16,361-io.netty.util.NetUtil-main-DEBUG: Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+2017-06-19 11:40:16,362-io.netty.util.NetUtil-main-DEBUG: \proc\sys\net\core\somaxconn: 200 (non-existent)
+2017-06-19 11:40:16,451-io.netty.channel.DefaultChannelId-main-DEBUG: -Dio.netty.machineId: 00:00:00:00:00:00:00:e0 (auto-detected)
+2017-06-19 11:40:16,453-io.netty.util.internal.ThreadLocalRandom-main-DEBUG: -Dio.netty.initialSeedUniquifier: 0x37474de5ef17b95a
+2017-06-19 11:40:16,483-io.netty.util.ResourceLeakDetector-main-DEBUG: -Dio.netty.leakDetection.level: simple
+2017-06-19 11:40:16,483-io.netty.util.ResourceLeakDetector-main-DEBUG: -Dio.netty.leakDetection.maxRecords: 4
+2017-06-19 11:40:16,514-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.numHeapArenas: 8
+2017-06-19 11:40:16,514-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.numDirectArenas: 8
+2017-06-19 11:40:16,514-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.pageSize: 8192
+2017-06-19 11:40:16,514-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.maxOrder: 11
+2017-06-19 11:40:16,514-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.chunkSize: 16777216
+2017-06-19 11:40:16,514-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.tinyCacheSize: 512
+2017-06-19 11:40:16,514-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.smallCacheSize: 256
+2017-06-19 11:40:16,514-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.normalCacheSize: 64
+2017-06-19 11:40:16,515-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2017-06-19 11:40:16,515-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.cacheTrimInterval: 8192
+2017-06-19 11:40:16,547-io.netty.buffer.ByteBufUtil-main-DEBUG: -Dio.netty.allocator.type: pooled
+2017-06-19 11:40:16,547-io.netty.buffer.ByteBufUtil-main-DEBUG: -Dio.netty.threadLocalDirectBufferSize: 65536
+2017-06-19 11:40:16,547-io.netty.buffer.ByteBufUtil-main-DEBUG: -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2017-06-19 11:40:16,618-io.netty.util.internal.JavassistTypeParameterMatcherGenerator-nioEventLoopGroup-2-1-DEBUG: Generated: io.netty.util.internal.__matchers__.java.io.SerializableMatcher
+2017-06-19 11:40:16,623-io.netty.util.internal.JavassistTypeParameterMatcherGenerator-nioEventLoopGroup-2-1-DEBUG: Generated: io.netty.util.internal.__matchers__.java.net.InetSocketAddressMatcher
+2017-06-19 11:40:16,645-io.netty.util.internal.JavassistTypeParameterMatcherGenerator-nioEventLoopGroup-3-1-DEBUG: Generated: io.netty.util.internal.__matchers__.java.io.SerializableMatcher
+2017-06-19 11:40:26,263-io.netty.util.Recycler-nioEventLoopGroup-3-1-DEBUG: -Dio.netty.recycler.maxCapacityPerThread: 32768
+2017-06-19 11:40:26,263-io.netty.util.Recycler-nioEventLoopGroup-3-1-DEBUG: -Dio.netty.recycler.maxSharedCapacityFactor: 2
+2017-06-19 11:40:26,263-io.netty.util.Recycler-nioEventLoopGroup-3-1-DEBUG: -Dio.netty.recycler.linkCapacity: 16
+2017-06-19 11:40:26,263-io.netty.util.Recycler-nioEventLoopGroup-3-1-DEBUG: -Dio.netty.recycler.ratio: 8
+2017-06-19 11:40:26,274-io.netty.buffer.AbstractByteBuf-nioEventLoopGroup-3-1-DEBUG: -Dio.netty.buffer.bytebuf.checkAccessible: true
+2017-06-19 11:40:26,277-io.netty.util.ResourceLeakDetectorFactory-nioEventLoopGroup-3-1-DEBUG: Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@5c79f286
+2017-06-19 11:40:31,773-io.netty.util.internal.logging.InternalLoggerFactory-main-DEBUG: Using SLF4J as the default logging framework
+2017-06-19 11:40:31,780-io.netty.channel.MultithreadEventLoopGroup-main-DEBUG: -Dio.netty.eventLoopThreads: 8
+2017-06-19 11:40:31,810-io.netty.util.internal.PlatformDependent0-main-DEBUG: java.nio.Buffer.address: available
+2017-06-19 11:40:31,810-io.netty.util.internal.PlatformDependent0-main-DEBUG: sun.misc.Unsafe.theUnsafe: available
+2017-06-19 11:40:31,811-io.netty.util.internal.PlatformDependent0-main-DEBUG: sun.misc.Unsafe.copyMemory: available
+2017-06-19 11:40:31,811-io.netty.util.internal.PlatformDependent0-main-DEBUG: direct buffer constructor: available
+2017-06-19 11:40:31,812-io.netty.util.internal.PlatformDependent0-main-DEBUG: java.nio.Bits.unaligned: available, true
+2017-06-19 11:40:31,812-io.netty.util.internal.PlatformDependent0-main-DEBUG: java.nio.DirectByteBuffer.<init>(long, int): available
+2017-06-19 11:40:31,813-io.netty.util.internal.Cleaner0-main-DEBUG: java.nio.ByteBuffer.cleaner(): available
+2017-06-19 11:40:31,813-io.netty.util.internal.PlatformDependent-main-DEBUG: Platform: Windows
+2017-06-19 11:40:31,814-io.netty.util.internal.PlatformDependent-main-DEBUG: Java version: 8
+2017-06-19 11:40:31,814-io.netty.util.internal.PlatformDependent-main-DEBUG: -Dio.netty.noUnsafe: false
+2017-06-19 11:40:31,814-io.netty.util.internal.PlatformDependent-main-DEBUG: sun.misc.Unsafe: available
+2017-06-19 11:40:31,814-io.netty.util.internal.PlatformDependent-main-DEBUG: -Dio.netty.noJavassist: false
+2017-06-19 11:40:31,936-io.netty.util.internal.PlatformDependent-main-DEBUG: Javassist: available
+2017-06-19 11:40:31,937-io.netty.util.internal.PlatformDependent-main-DEBUG: -Dio.netty.tmpdir: C:\Users\pc\AppData\Local\Temp (java.io.tmpdir)
+2017-06-19 11:40:31,937-io.netty.util.internal.PlatformDependent-main-DEBUG: -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2017-06-19 11:40:31,937-io.netty.util.internal.PlatformDependent-main-DEBUG: -Dio.netty.noPreferDirect: false
+2017-06-19 11:40:31,937-io.netty.util.internal.PlatformDependent-main-DEBUG: io.netty.maxDirectMemory: 1879048192 bytes
+2017-06-19 11:40:31,954-io.netty.channel.nio.NioEventLoop-main-DEBUG: -Dio.netty.noKeySetOptimization: false
+2017-06-19 11:40:31,954-io.netty.channel.nio.NioEventLoop-main-DEBUG: -Dio.netty.selectorAutoRebuildThreshold: 512
+2017-06-19 11:40:31,956-io.netty.util.internal.PlatformDependent-main-DEBUG: org.jctools-core.MpscChunkedArrayQueue: available
+2017-06-19 11:40:32,036-io.netty.channel.DefaultChannelId-main-DEBUG: -Dio.netty.processId: 8644 (auto-detected)
+2017-06-19 11:40:32,038-io.netty.util.NetUtil-main-DEBUG: -Djava.net.preferIPv4Stack: false
+2017-06-19 11:40:32,038-io.netty.util.NetUtil-main-DEBUG: -Djava.net.preferIPv6Addresses: false
+2017-06-19 11:40:32,099-io.netty.util.NetUtil-main-DEBUG: Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+2017-06-19 11:40:32,100-io.netty.util.NetUtil-main-DEBUG: \proc\sys\net\core\somaxconn: 200 (non-existent)
+2017-06-19 11:40:32,215-io.netty.channel.DefaultChannelId-main-DEBUG: -Dio.netty.machineId: 00:00:00:00:00:00:00:e0 (auto-detected)
+2017-06-19 11:40:32,218-io.netty.util.internal.ThreadLocalRandom-main-DEBUG: -Dio.netty.initialSeedUniquifier: 0x6d891e551646f950
+2017-06-19 11:40:32,241-io.netty.util.ResourceLeakDetector-main-DEBUG: -Dio.netty.leakDetection.level: simple
+2017-06-19 11:40:32,241-io.netty.util.ResourceLeakDetector-main-DEBUG: -Dio.netty.leakDetection.maxRecords: 4
+2017-06-19 11:40:32,287-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.numHeapArenas: 8
+2017-06-19 11:40:32,287-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.numDirectArenas: 8
+2017-06-19 11:40:32,287-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.pageSize: 8192
+2017-06-19 11:40:32,287-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.maxOrder: 11
+2017-06-19 11:40:32,287-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.chunkSize: 16777216
+2017-06-19 11:40:32,287-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.tinyCacheSize: 512
+2017-06-19 11:40:32,287-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.smallCacheSize: 256
+2017-06-19 11:40:32,287-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.normalCacheSize: 64
+2017-06-19 11:40:32,287-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2017-06-19 11:40:32,287-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.cacheTrimInterval: 8192
+2017-06-19 11:40:32,298-io.netty.buffer.ByteBufUtil-main-DEBUG: -Dio.netty.allocator.type: pooled
+2017-06-19 11:40:32,298-io.netty.buffer.ByteBufUtil-main-DEBUG: -Dio.netty.threadLocalDirectBufferSize: 65536
+2017-06-19 11:40:32,298-io.netty.buffer.ByteBufUtil-main-DEBUG: -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2017-06-19 11:40:32,314-io.netty.util.internal.JavassistTypeParameterMatcherGenerator-nioEventLoopGroup-2-1-DEBUG: Generated: io.netty.util.internal.__matchers__.java.io.SerializableMatcher
+2017-06-19 11:40:32,320-io.netty.util.internal.JavassistTypeParameterMatcherGenerator-nioEventLoopGroup-2-1-DEBUG: Generated: io.netty.util.internal.__matchers__.java.net.InetSocketAddressMatcher
+2017-06-19 11:40:32,325-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 文件总长度:9130
+2017-06-19 11:40:32,331-io.netty.util.Recycler-nioEventLoopGroup-2-1-DEBUG: -Dio.netty.recycler.maxCapacityPerThread: 32768
+2017-06-19 11:40:32,331-io.netty.util.Recycler-nioEventLoopGroup-2-1-DEBUG: -Dio.netty.recycler.maxSharedCapacityFactor: 2
+2017-06-19 11:40:32,331-io.netty.util.Recycler-nioEventLoopGroup-2-1-DEBUG: -Dio.netty.recycler.linkCapacity: 16
+2017-06-19 11:40:32,331-io.netty.util.Recycler-nioEventLoopGroup-2-1-DEBUG: -Dio.netty.recycler.ratio: 8
+2017-06-19 11:40:32,342-io.netty.buffer.AbstractByteBuf-nioEventLoopGroup-2-1-DEBUG: -Dio.netty.buffer.bytebuf.checkAccessible: true
+2017-06-19 11:40:32,344-io.netty.util.ResourceLeakDetectorFactory-nioEventLoopGroup-2-1-DEBUG: Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@2c8cbe14
+2017-06-19 11:40:32,381-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-2-DEBUG: 总包数：9
+2017-06-19 11:40:32,381-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-2-DEBUG: 收到第1包
+2017-06-19 11:40:32,381-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-2-DEBUG: 本包字节数:1024
+2017-06-19 11:40:32,396-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 剩余文件长度:8106
+2017-06-19 11:40:32,397-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-2-DEBUG: 总包数：9
+2017-06-19 11:40:32,397-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-2-DEBUG: 收到第2包
+2017-06-19 11:40:32,397-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-2-DEBUG: 本包字节数:1024
+2017-06-19 11:40:32,398-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 剩余文件长度:7082
+2017-06-19 11:40:32,401-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-2-DEBUG: 总包数：9
+2017-06-19 11:40:32,401-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-2-DEBUG: 收到第3包
+2017-06-19 11:40:32,402-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-2-DEBUG: 本包字节数:1024
+2017-06-19 11:40:32,402-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 剩余文件长度:6058
+2017-06-19 11:40:32,407-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-2-DEBUG: 总包数：9
+2017-06-19 11:40:32,408-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-2-DEBUG: 收到第4包
+2017-06-19 11:40:32,408-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-2-DEBUG: 本包字节数:1024
+2017-06-19 11:40:32,409-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 剩余文件长度:5034
+2017-06-19 11:40:32,413-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-2-DEBUG: 总包数：9
+2017-06-19 11:40:32,413-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-2-DEBUG: 收到第5包
+2017-06-19 11:40:32,413-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-2-DEBUG: 本包字节数:1024
+2017-06-19 11:40:32,414-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 剩余文件长度:4010
+2017-06-19 11:40:32,417-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-2-DEBUG: 总包数：9
+2017-06-19 11:40:32,417-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-2-DEBUG: 收到第6包
+2017-06-19 11:40:32,417-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-2-DEBUG: 本包字节数:1024
+2017-06-19 11:40:32,418-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 剩余文件长度:2986
+2017-06-19 11:40:32,422-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-2-DEBUG: 总包数：9
+2017-06-19 11:40:32,422-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-2-DEBUG: 收到第7包
+2017-06-19 11:40:32,422-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-2-DEBUG: 本包字节数:1024
+2017-06-19 11:40:32,422-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 剩余文件长度:1962
+2017-06-19 11:40:32,425-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-2-DEBUG: 总包数：9
+2017-06-19 11:40:32,425-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-2-DEBUG: 收到第8包
+2017-06-19 11:40:32,425-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-2-DEBUG: 本包字节数:1024
+2017-06-19 11:40:32,426-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 剩余文件长度:938
+2017-06-19 11:40:32,426-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 小于固定长度：938
+2017-06-19 11:40:32,430-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-2-DEBUG: 总包数：9
+2017-06-19 11:40:32,430-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-2-DEBUG: 收到第9包
+2017-06-19 11:40:32,430-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-2-DEBUG: 本包字节数:938
+2017-06-19 11:51:27,391-io.netty.util.internal.logging.InternalLoggerFactory-main-DEBUG: Using SLF4J as the default logging framework
+2017-06-19 11:51:27,398-io.netty.channel.MultithreadEventLoopGroup-main-DEBUG: -Dio.netty.eventLoopThreads: 8
+2017-06-19 11:51:27,423-io.netty.util.internal.PlatformDependent0-main-DEBUG: java.nio.Buffer.address: available
+2017-06-19 11:51:27,424-io.netty.util.internal.PlatformDependent0-main-DEBUG: sun.misc.Unsafe.theUnsafe: available
+2017-06-19 11:51:27,425-io.netty.util.internal.PlatformDependent0-main-DEBUG: sun.misc.Unsafe.copyMemory: available
+2017-06-19 11:51:27,426-io.netty.util.internal.PlatformDependent0-main-DEBUG: direct buffer constructor: available
+2017-06-19 11:51:27,427-io.netty.util.internal.PlatformDependent0-main-DEBUG: java.nio.Bits.unaligned: available, true
+2017-06-19 11:51:27,427-io.netty.util.internal.PlatformDependent0-main-DEBUG: java.nio.DirectByteBuffer.<init>(long, int): available
+2017-06-19 11:51:27,430-io.netty.util.internal.Cleaner0-main-DEBUG: java.nio.ByteBuffer.cleaner(): available
+2017-06-19 11:51:27,430-io.netty.util.internal.PlatformDependent-main-DEBUG: Platform: Windows
+2017-06-19 11:51:27,432-io.netty.util.internal.PlatformDependent-main-DEBUG: Java version: 8
+2017-06-19 11:51:27,432-io.netty.util.internal.PlatformDependent-main-DEBUG: -Dio.netty.noUnsafe: false
+2017-06-19 11:51:27,432-io.netty.util.internal.PlatformDependent-main-DEBUG: sun.misc.Unsafe: available
+2017-06-19 11:51:27,434-io.netty.util.internal.PlatformDependent-main-DEBUG: -Dio.netty.noJavassist: false
+2017-06-19 11:51:27,549-io.netty.util.internal.PlatformDependent-main-DEBUG: Javassist: available
+2017-06-19 11:51:27,549-io.netty.util.internal.PlatformDependent-main-DEBUG: -Dio.netty.tmpdir: C:\Users\pc\AppData\Local\Temp (java.io.tmpdir)
+2017-06-19 11:51:27,549-io.netty.util.internal.PlatformDependent-main-DEBUG: -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2017-06-19 11:51:27,549-io.netty.util.internal.PlatformDependent-main-DEBUG: -Dio.netty.noPreferDirect: false
+2017-06-19 11:51:27,549-io.netty.util.internal.PlatformDependent-main-DEBUG: io.netty.maxDirectMemory: 1879048192 bytes
+2017-06-19 11:51:27,565-io.netty.channel.nio.NioEventLoop-main-DEBUG: -Dio.netty.noKeySetOptimization: false
+2017-06-19 11:51:27,565-io.netty.channel.nio.NioEventLoop-main-DEBUG: -Dio.netty.selectorAutoRebuildThreshold: 512
+2017-06-19 11:51:27,567-io.netty.util.internal.PlatformDependent-main-DEBUG: org.jctools-core.MpscChunkedArrayQueue: available
+2017-06-19 11:51:27,635-io.netty.channel.DefaultChannelId-main-DEBUG: -Dio.netty.processId: 5908 (auto-detected)
+2017-06-19 11:51:27,638-io.netty.util.NetUtil-main-DEBUG: -Djava.net.preferIPv4Stack: false
+2017-06-19 11:51:27,638-io.netty.util.NetUtil-main-DEBUG: -Djava.net.preferIPv6Addresses: false
+2017-06-19 11:51:27,699-io.netty.util.NetUtil-main-DEBUG: Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+2017-06-19 11:51:27,700-io.netty.util.NetUtil-main-DEBUG: \proc\sys\net\core\somaxconn: 200 (non-existent)
+2017-06-19 11:51:27,822-io.netty.channel.DefaultChannelId-main-DEBUG: -Dio.netty.machineId: 00:00:00:00:00:00:00:e0 (auto-detected)
+2017-06-19 11:51:27,824-io.netty.util.internal.ThreadLocalRandom-main-DEBUG: -Dio.netty.initialSeedUniquifier: 0x8b675368ac4e8a21
+2017-06-19 11:51:27,844-io.netty.util.ResourceLeakDetector-main-DEBUG: -Dio.netty.leakDetection.level: simple
+2017-06-19 11:51:27,844-io.netty.util.ResourceLeakDetector-main-DEBUG: -Dio.netty.leakDetection.maxRecords: 4
+2017-06-19 11:51:27,887-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.numHeapArenas: 8
+2017-06-19 11:51:27,887-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.numDirectArenas: 8
+2017-06-19 11:51:27,887-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.pageSize: 8192
+2017-06-19 11:51:27,887-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.maxOrder: 11
+2017-06-19 11:51:27,887-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.chunkSize: 16777216
+2017-06-19 11:51:27,888-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.tinyCacheSize: 512
+2017-06-19 11:51:27,888-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.smallCacheSize: 256
+2017-06-19 11:51:27,888-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.normalCacheSize: 64
+2017-06-19 11:51:27,888-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2017-06-19 11:51:27,888-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.cacheTrimInterval: 8192
+2017-06-19 11:51:27,903-io.netty.buffer.ByteBufUtil-main-DEBUG: -Dio.netty.allocator.type: pooled
+2017-06-19 11:51:27,903-io.netty.buffer.ByteBufUtil-main-DEBUG: -Dio.netty.threadLocalDirectBufferSize: 65536
+2017-06-19 11:51:27,903-io.netty.buffer.ByteBufUtil-main-DEBUG: -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2017-06-19 11:51:27,924-io.netty.util.internal.JavassistTypeParameterMatcherGenerator-nioEventLoopGroup-2-1-DEBUG: Generated: io.netty.util.internal.__matchers__.java.io.SerializableMatcher
+2017-06-19 11:51:27,930-io.netty.util.internal.JavassistTypeParameterMatcherGenerator-nioEventLoopGroup-2-1-DEBUG: Generated: io.netty.util.internal.__matchers__.java.net.InetSocketAddressMatcher
+2017-06-19 11:51:27,935-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 文件总长度:9130
+2017-06-19 11:51:27,941-io.netty.util.Recycler-nioEventLoopGroup-2-1-DEBUG: -Dio.netty.recycler.maxCapacityPerThread: 32768
+2017-06-19 11:51:27,941-io.netty.util.Recycler-nioEventLoopGroup-2-1-DEBUG: -Dio.netty.recycler.maxSharedCapacityFactor: 2
+2017-06-19 11:51:27,941-io.netty.util.Recycler-nioEventLoopGroup-2-1-DEBUG: -Dio.netty.recycler.linkCapacity: 16
+2017-06-19 11:51:27,941-io.netty.util.Recycler-nioEventLoopGroup-2-1-DEBUG: -Dio.netty.recycler.ratio: 8
+2017-06-19 11:51:27,954-io.netty.buffer.AbstractByteBuf-nioEventLoopGroup-2-1-DEBUG: -Dio.netty.buffer.bytebuf.checkAccessible: true
+2017-06-19 11:51:27,957-io.netty.util.ResourceLeakDetectorFactory-nioEventLoopGroup-2-1-DEBUG: Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@2b5f304d
+2017-06-19 11:51:27,981-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-3-DEBUG: 总包数：9
+2017-06-19 11:51:27,981-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-3-DEBUG: 收到第1包
+2017-06-19 11:51:27,981-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-3-DEBUG: 本包字节数:1024
+2017-06-19 11:51:27,988-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-3-DEBUG: 总包数：9
+2017-06-19 11:51:27,988-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-3-DEBUG: 收到第2包
+2017-06-19 11:51:27,988-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-3-DEBUG: 本包字节数:1024
+2017-06-19 11:51:27,987-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 剩余文件长度:8106
+2017-06-19 11:51:27,989-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 剩余文件长度:7082
+2017-06-19 11:51:27,993-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-3-DEBUG: 总包数：9
+2017-06-19 11:51:27,993-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-3-DEBUG: 收到第3包
+2017-06-19 11:51:27,993-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-3-DEBUG: 本包字节数:1024
+2017-06-19 11:51:27,994-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 剩余文件长度:6058
+2017-06-19 11:51:27,998-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-3-DEBUG: 总包数：9
+2017-06-19 11:51:27,998-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-3-DEBUG: 收到第4包
+2017-06-19 11:51:27,998-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-3-DEBUG: 本包字节数:1024
+2017-06-19 11:51:27,999-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 剩余文件长度:5034
+2017-06-19 11:51:28,003-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-3-DEBUG: 总包数：9
+2017-06-19 11:51:28,003-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-3-DEBUG: 收到第5包
+2017-06-19 11:51:28,003-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-3-DEBUG: 本包字节数:1024
+2017-06-19 11:51:28,004-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 剩余文件长度:4010
+2017-06-19 11:51:28,009-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 剩余文件长度:2986
+2017-06-19 11:51:28,008-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-3-DEBUG: 总包数：9
+2017-06-19 11:51:28,008-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-3-DEBUG: 收到第6包
+2017-06-19 11:51:28,008-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-3-DEBUG: 本包字节数:1024
+2017-06-19 11:51:28,012-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-3-DEBUG: 总包数：9
+2017-06-19 11:51:28,012-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-3-DEBUG: 收到第7包
+2017-06-19 11:51:28,012-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-3-DEBUG: 本包字节数:1024
+2017-06-19 11:51:28,013-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 剩余文件长度:1962
+2017-06-19 11:51:28,016-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-3-DEBUG: 总包数：9
+2017-06-19 11:51:28,016-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-3-DEBUG: 收到第8包
+2017-06-19 11:51:28,017-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 剩余文件长度:938
+2017-06-19 11:51:28,017-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 小于固定长度：938
+2017-06-19 11:51:28,016-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-3-DEBUG: 本包字节数:1024
+2017-06-19 11:51:28,021-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-3-DEBUG: 总包数：9
+2017-06-19 11:51:28,021-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-3-DEBUG: 收到第9包
+2017-06-19 11:51:28,021-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-3-DEBUG: 本包字节数:938
+2017-06-19 11:52:22,058-io.netty.util.internal.logging.InternalLoggerFactory-main-DEBUG: Using SLF4J as the default logging framework
+2017-06-19 11:52:22,063-io.netty.channel.MultithreadEventLoopGroup-main-DEBUG: -Dio.netty.eventLoopThreads: 8
+2017-06-19 11:52:22,084-io.netty.util.internal.PlatformDependent0-main-DEBUG: java.nio.Buffer.address: available
+2017-06-19 11:52:22,084-io.netty.util.internal.PlatformDependent0-main-DEBUG: sun.misc.Unsafe.theUnsafe: available
+2017-06-19 11:52:22,086-io.netty.util.internal.PlatformDependent0-main-DEBUG: sun.misc.Unsafe.copyMemory: available
+2017-06-19 11:52:22,086-io.netty.util.internal.PlatformDependent0-main-DEBUG: direct buffer constructor: available
+2017-06-19 11:52:22,087-io.netty.util.internal.PlatformDependent0-main-DEBUG: java.nio.Bits.unaligned: available, true
+2017-06-19 11:52:22,087-io.netty.util.internal.PlatformDependent0-main-DEBUG: java.nio.DirectByteBuffer.<init>(long, int): available
+2017-06-19 11:52:22,088-io.netty.util.internal.Cleaner0-main-DEBUG: java.nio.ByteBuffer.cleaner(): available
+2017-06-19 11:52:22,088-io.netty.util.internal.PlatformDependent-main-DEBUG: Platform: Windows
+2017-06-19 11:52:22,088-io.netty.util.internal.PlatformDependent-main-DEBUG: Java version: 8
+2017-06-19 11:52:22,088-io.netty.util.internal.PlatformDependent-main-DEBUG: -Dio.netty.noUnsafe: false
+2017-06-19 11:52:22,088-io.netty.util.internal.PlatformDependent-main-DEBUG: sun.misc.Unsafe: available
+2017-06-19 11:52:22,089-io.netty.util.internal.PlatformDependent-main-DEBUG: -Dio.netty.noJavassist: false
+2017-06-19 11:52:22,202-io.netty.util.internal.PlatformDependent-main-DEBUG: Javassist: available
+2017-06-19 11:52:22,202-io.netty.util.internal.PlatformDependent-main-DEBUG: -Dio.netty.tmpdir: C:\Users\pc\AppData\Local\Temp (java.io.tmpdir)
+2017-06-19 11:52:22,202-io.netty.util.internal.PlatformDependent-main-DEBUG: -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2017-06-19 11:52:22,202-io.netty.util.internal.PlatformDependent-main-DEBUG: -Dio.netty.noPreferDirect: false
+2017-06-19 11:52:22,202-io.netty.util.internal.PlatformDependent-main-DEBUG: io.netty.maxDirectMemory: 1879048192 bytes
+2017-06-19 11:52:22,228-io.netty.channel.nio.NioEventLoop-main-DEBUG: -Dio.netty.noKeySetOptimization: false
+2017-06-19 11:52:22,228-io.netty.channel.nio.NioEventLoop-main-DEBUG: -Dio.netty.selectorAutoRebuildThreshold: 512
+2017-06-19 11:52:22,230-io.netty.util.internal.PlatformDependent-main-DEBUG: org.jctools-core.MpscChunkedArrayQueue: available
+2017-06-19 11:52:22,296-io.netty.channel.DefaultChannelId-main-DEBUG: -Dio.netty.processId: 8792 (auto-detected)
+2017-06-19 11:52:22,298-io.netty.util.NetUtil-main-DEBUG: -Djava.net.preferIPv4Stack: false
+2017-06-19 11:52:22,298-io.netty.util.NetUtil-main-DEBUG: -Djava.net.preferIPv6Addresses: false
+2017-06-19 11:52:22,345-io.netty.util.NetUtil-main-DEBUG: Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+2017-06-19 11:52:22,345-io.netty.util.NetUtil-main-DEBUG: \proc\sys\net\core\somaxconn: 200 (non-existent)
+2017-06-19 11:52:22,470-io.netty.channel.DefaultChannelId-main-DEBUG: -Dio.netty.machineId: 00:00:00:00:00:00:00:e0 (auto-detected)
+2017-06-19 11:52:22,471-io.netty.util.internal.ThreadLocalRandom-main-DEBUG: -Dio.netty.initialSeedUniquifier: 0xf795f99f1f973325
+2017-06-19 11:52:22,496-io.netty.util.ResourceLeakDetector-main-DEBUG: -Dio.netty.leakDetection.level: simple
+2017-06-19 11:52:22,496-io.netty.util.ResourceLeakDetector-main-DEBUG: -Dio.netty.leakDetection.maxRecords: 4
+2017-06-19 11:52:22,538-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.numHeapArenas: 8
+2017-06-19 11:52:22,538-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.numDirectArenas: 8
+2017-06-19 11:52:22,538-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.pageSize: 8192
+2017-06-19 11:52:22,538-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.maxOrder: 11
+2017-06-19 11:52:22,538-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.chunkSize: 16777216
+2017-06-19 11:52:22,538-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.tinyCacheSize: 512
+2017-06-19 11:52:22,538-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.smallCacheSize: 256
+2017-06-19 11:52:22,538-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.normalCacheSize: 64
+2017-06-19 11:52:22,538-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2017-06-19 11:52:22,538-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.cacheTrimInterval: 8192
+2017-06-19 11:52:22,566-io.netty.buffer.ByteBufUtil-main-DEBUG: -Dio.netty.allocator.type: pooled
+2017-06-19 11:52:22,566-io.netty.buffer.ByteBufUtil-main-DEBUG: -Dio.netty.threadLocalDirectBufferSize: 65536
+2017-06-19 11:52:22,566-io.netty.buffer.ByteBufUtil-main-DEBUG: -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2017-06-19 11:52:22,594-io.netty.util.internal.JavassistTypeParameterMatcherGenerator-nioEventLoopGroup-2-1-DEBUG: Generated: io.netty.util.internal.__matchers__.java.io.SerializableMatcher
+2017-06-19 11:52:22,599-io.netty.util.internal.JavassistTypeParameterMatcherGenerator-nioEventLoopGroup-2-1-DEBUG: Generated: io.netty.util.internal.__matchers__.java.net.InetSocketAddressMatcher
+2017-06-19 11:52:22,605-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 文件总长度:9130
+2017-06-19 11:52:22,611-io.netty.util.Recycler-nioEventLoopGroup-2-1-DEBUG: -Dio.netty.recycler.maxCapacityPerThread: 32768
+2017-06-19 11:52:22,611-io.netty.util.Recycler-nioEventLoopGroup-2-1-DEBUG: -Dio.netty.recycler.maxSharedCapacityFactor: 2
+2017-06-19 11:52:22,611-io.netty.util.Recycler-nioEventLoopGroup-2-1-DEBUG: -Dio.netty.recycler.linkCapacity: 16
+2017-06-19 11:52:22,611-io.netty.util.Recycler-nioEventLoopGroup-2-1-DEBUG: -Dio.netty.recycler.ratio: 8
+2017-06-19 11:52:22,624-io.netty.buffer.AbstractByteBuf-nioEventLoopGroup-2-1-DEBUG: -Dio.netty.buffer.bytebuf.checkAccessible: true
+2017-06-19 11:52:22,626-io.netty.util.ResourceLeakDetectorFactory-nioEventLoopGroup-2-1-DEBUG: Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@677d9104
+2017-06-19 11:52:22,655-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 总包数：9
+2017-06-19 11:52:22,655-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 收到第1包
+2017-06-19 11:52:22,655-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 本包字节数:1024
+2017-06-19 11:52:22,660-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 总包数：9
+2017-06-19 11:52:22,660-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 收到第1包
+2017-06-19 11:52:22,660-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 本包字节数:1024
+2017-06-19 11:52:22,661-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 剩余文件长度:8106
+2017-06-19 11:52:22,661-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 剩余文件长度:8106
+2017-06-19 11:52:22,666-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 剩余文件长度:8106
+2017-06-19 11:52:22,665-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 总包数：9
+2017-06-19 11:52:22,665-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 收到第1包
+2017-06-19 11:52:22,665-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 本包字节数:1024
+2017-06-19 11:52:22,670-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 总包数：9
+2017-06-19 11:52:22,670-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 收到第1包
+2017-06-19 11:52:22,670-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 本包字节数:1024
+2017-06-19 11:52:22,671-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 剩余文件长度:8106
+2017-06-19 11:52:22,675-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 总包数：9
+2017-06-19 11:52:22,675-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 收到第1包
+2017-06-19 11:52:22,675-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 本包字节数:1024
+2017-06-19 11:52:22,675-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 剩余文件长度:8106
+2017-06-19 11:52:22,679-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 总包数：9
+2017-06-19 11:52:22,679-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 收到第2包
+2017-06-19 11:52:22,679-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 本包字节数:1024
+2017-06-19 11:52:22,680-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 剩余文件长度:7082
+2017-06-19 11:52:22,684-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 总包数：9
+2017-06-19 11:52:22,684-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 收到第2包
+2017-06-19 11:52:22,684-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 本包字节数:1024
+2017-06-19 11:52:22,689-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 总包数：9
+2017-06-19 11:52:22,689-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 收到第2包
+2017-06-19 11:52:22,689-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 本包字节数:1024
+2017-06-19 11:52:22,685-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 剩余文件长度:7082
+2017-06-19 11:52:22,690-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 剩余文件长度:7082
+2017-06-19 11:52:22,694-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 总包数：9
+2017-06-19 11:52:22,694-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 收到第2包
+2017-06-19 11:52:22,694-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 本包字节数:1024
+2017-06-19 11:52:22,699-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 总包数：9
+2017-06-19 11:52:22,699-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 收到第2包
+2017-06-19 11:52:22,699-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 本包字节数:1024
+2017-06-19 11:52:22,695-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 剩余文件长度:7082
+2017-06-19 11:52:22,700-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 剩余文件长度:7082
+2017-06-19 11:52:22,705-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 总包数：9
+2017-06-19 11:52:22,705-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 收到第3包
+2017-06-19 11:52:22,705-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 本包字节数:1024
+2017-06-19 11:52:22,705-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 剩余文件长度:6058
+2017-06-19 11:52:22,709-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 总包数：9
+2017-06-19 11:52:22,709-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 收到第3包
+2017-06-19 11:52:22,709-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 本包字节数:1024
+2017-06-19 11:52:22,714-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 总包数：9
+2017-06-19 11:52:22,714-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 收到第3包
+2017-06-19 11:52:22,714-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 本包字节数:1024
+2017-06-19 11:52:22,720-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 总包数：9
+2017-06-19 11:52:22,720-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 收到第3包
+2017-06-19 11:52:22,720-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 本包字节数:1024
+2017-06-19 11:52:22,725-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 总包数：9
+2017-06-19 11:52:22,725-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 收到第3包
+2017-06-19 11:52:22,725-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 本包字节数:1024
+2017-06-19 11:52:22,732-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 总包数：9
+2017-06-19 11:52:22,732-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 收到第4包
+2017-06-19 11:52:22,732-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 本包字节数:1024
+2017-06-19 11:52:22,737-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 总包数：9
+2017-06-19 11:52:22,737-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 收到第4包
+2017-06-19 11:52:22,737-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 本包字节数:1024
+2017-06-19 11:52:22,744-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 总包数：9
+2017-06-19 11:52:22,745-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 收到第4包
+2017-06-19 11:52:22,745-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 本包字节数:1024
+2017-06-19 11:52:22,749-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 总包数：9
+2017-06-19 11:52:22,749-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 收到第4包
+2017-06-19 11:52:22,749-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 本包字节数:1024
+2017-06-19 11:52:22,754-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 总包数：9
+2017-06-19 11:52:22,754-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 收到第4包
+2017-06-19 11:52:22,754-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 本包字节数:1024
+2017-06-19 11:52:22,759-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 总包数：9
+2017-06-19 11:52:22,759-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 收到第5包
+2017-06-19 11:52:22,759-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 本包字节数:1024
+2017-06-19 11:52:22,764-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 总包数：9
+2017-06-19 11:52:22,764-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 收到第5包
+2017-06-19 11:52:22,764-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 本包字节数:1024
+2017-06-19 11:52:22,769-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 总包数：9
+2017-06-19 11:52:22,769-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 收到第5包
+2017-06-19 11:52:22,769-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 本包字节数:1024
+2017-06-19 11:52:22,710-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 剩余文件长度:6058
+2017-06-19 11:52:22,715-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 剩余文件长度:6058
+2017-06-19 11:52:22,721-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 剩余文件长度:6058
+2017-06-19 11:52:22,726-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 剩余文件长度:6058
+2017-06-19 11:52:22,732-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 剩余文件长度:5034
+2017-06-19 11:52:22,738-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 剩余文件长度:5034
+2017-06-19 11:52:22,745-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 剩余文件长度:5034
+2017-06-19 11:52:22,750-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 剩余文件长度:5034
+2017-06-19 11:52:22,755-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 剩余文件长度:5034
+2017-06-19 11:52:22,760-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 剩余文件长度:4010
+2017-06-19 11:52:22,765-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 剩余文件长度:4010
+2017-06-19 11:52:22,770-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 剩余文件长度:4010
+2017-06-19 11:52:22,773-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 总包数：9
+2017-06-19 11:52:22,773-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 收到第5包
+2017-06-19 11:52:22,773-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 本包字节数:1024
+2017-06-19 11:52:22,774-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 剩余文件长度:4010
+2017-06-19 11:52:22,778-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 总包数：9
+2017-06-19 11:52:22,779-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 收到第5包
+2017-06-19 11:52:22,779-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 本包字节数:1024
+2017-06-19 11:52:22,779-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 剩余文件长度:4010
+2017-06-19 11:52:22,784-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 总包数：9
+2017-06-19 11:52:22,784-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 收到第6包
+2017-06-19 11:52:22,784-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 本包字节数:1024
+2017-06-19 11:52:22,790-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 总包数：9
+2017-06-19 11:52:22,790-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 收到第6包
+2017-06-19 11:52:22,790-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 本包字节数:1024
+2017-06-19 11:52:22,784-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 剩余文件长度:2986
+2017-06-19 11:52:22,791-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 剩余文件长度:2986
+2017-06-19 11:52:22,795-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 总包数：9
+2017-06-19 11:52:22,795-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 收到第6包
+2017-06-19 11:52:22,795-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 本包字节数:1024
+2017-06-19 11:52:22,795-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 剩余文件长度:2986
+2017-06-19 11:52:22,799-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 总包数：9
+2017-06-19 11:52:22,799-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 收到第6包
+2017-06-19 11:52:22,799-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 本包字节数:1024
+2017-06-19 11:52:22,800-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 剩余文件长度:2986
+2017-06-19 11:52:22,804-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 总包数：9
+2017-06-19 11:52:22,804-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 收到第6包
+2017-06-19 11:52:22,804-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 本包字节数:1024
+2017-06-19 11:52:22,805-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 剩余文件长度:2986
+2017-06-19 11:52:22,810-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 剩余文件长度:1962
+2017-06-19 11:52:22,814-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 剩余文件长度:1962
+2017-06-19 11:52:22,809-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 总包数：9
+2017-06-19 11:52:22,809-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 收到第7包
+2017-06-19 11:52:22,809-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 本包字节数:1024
+2017-06-19 11:52:22,814-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 总包数：9
+2017-06-19 11:52:22,814-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 收到第7包
+2017-06-19 11:52:22,814-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 本包字节数:1024
+2017-06-19 11:52:22,820-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 剩余文件长度:1962
+2017-06-19 11:52:22,819-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 总包数：9
+2017-06-19 11:52:22,820-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 收到第7包
+2017-06-19 11:52:22,820-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 本包字节数:1024
+2017-06-19 11:52:22,825-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 剩余文件长度:1962
+2017-06-19 11:52:22,825-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 总包数：9
+2017-06-19 11:52:22,825-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 收到第7包
+2017-06-19 11:52:22,825-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 本包字节数:1024
+2017-06-19 11:52:22,830-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 总包数：9
+2017-06-19 11:52:22,830-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 收到第7包
+2017-06-19 11:52:22,830-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 本包字节数:1024
+2017-06-19 11:52:22,831-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 剩余文件长度:1962
+2017-06-19 11:52:22,836-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 总包数：9
+2017-06-19 11:52:22,836-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 收到第8包
+2017-06-19 11:52:22,836-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 本包字节数:1024
+2017-06-19 11:52:22,836-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 剩余文件长度:938
+2017-06-19 11:52:22,836-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 小于固定长度：938
+2017-06-19 11:52:22,840-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 总包数：9
+2017-06-19 11:52:22,840-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 收到第8包
+2017-06-19 11:52:22,840-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 本包字节数:1024
+2017-06-19 11:52:22,841-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 剩余文件长度:938
+2017-06-19 11:52:22,841-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 小于固定长度：938
+2017-06-19 11:52:22,845-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 总包数：9
+2017-06-19 11:52:22,845-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 收到第8包
+2017-06-19 11:52:22,845-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 本包字节数:1024
+2017-06-19 11:52:22,846-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 剩余文件长度:938
+2017-06-19 11:52:22,846-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 小于固定长度：938
+2017-06-19 11:52:22,850-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 总包数：9
+2017-06-19 11:52:22,850-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 收到第8包
+2017-06-19 11:52:22,850-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 本包字节数:1024
+2017-06-19 11:52:22,850-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 剩余文件长度:938
+2017-06-19 11:52:22,851-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 小于固定长度：938
+2017-06-19 11:52:22,855-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 剩余文件长度:938
+2017-06-19 11:52:22,855-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 小于固定长度：938
+2017-06-19 11:52:22,871-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 服务器断开连接
+2017-06-19 11:52:22,854-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 总包数：9
+2017-06-19 11:52:22,854-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 收到第8包
+2017-06-19 11:52:22,854-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 本包字节数:1024
+2017-06-19 11:52:22,862-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 总包数：9
+2017-06-19 11:52:22,862-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 收到第9包
+2017-06-19 11:52:22,862-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 本包字节数:938
+2017-06-19 11:52:22,866-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 总包数：9
+2017-06-19 11:52:22,866-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 收到第9包
+2017-06-19 11:52:22,866-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 本包字节数:938
+2017-06-19 11:52:22,871-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 总包数：9
+2017-06-19 11:52:22,871-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 收到第9包
+2017-06-19 11:52:22,871-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 本包字节数:938
+2017-06-19 11:52:22,875-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 总包数：9
+2017-06-19 11:52:22,875-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 收到第9包
+2017-06-19 11:52:22,875-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 本包字节数:938
+2017-06-19 11:52:22,880-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 总包数：9
+2017-06-19 11:52:22,880-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 收到第9包
+2017-06-19 11:52:22,880-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-4-DEBUG: 本包字节数:938
+2017-06-19 11:54:05,111-io.netty.util.internal.logging.InternalLoggerFactory-main-DEBUG: Using SLF4J as the default logging framework
+2017-06-19 11:54:05,129-io.netty.channel.MultithreadEventLoopGroup-main-DEBUG: -Dio.netty.eventLoopThreads: 8
+2017-06-19 11:54:05,154-io.netty.util.internal.PlatformDependent0-main-DEBUG: java.nio.Buffer.address: available
+2017-06-19 11:54:05,155-io.netty.util.internal.PlatformDependent0-main-DEBUG: sun.misc.Unsafe.theUnsafe: available
+2017-06-19 11:54:05,156-io.netty.util.internal.PlatformDependent0-main-DEBUG: sun.misc.Unsafe.copyMemory: available
+2017-06-19 11:54:05,156-io.netty.util.internal.PlatformDependent0-main-DEBUG: direct buffer constructor: available
+2017-06-19 11:54:05,157-io.netty.util.internal.PlatformDependent0-main-DEBUG: java.nio.Bits.unaligned: available, true
+2017-06-19 11:54:05,157-io.netty.util.internal.PlatformDependent0-main-DEBUG: java.nio.DirectByteBuffer.<init>(long, int): available
+2017-06-19 11:54:05,159-io.netty.util.internal.Cleaner0-main-DEBUG: java.nio.ByteBuffer.cleaner(): available
+2017-06-19 11:54:05,159-io.netty.util.internal.PlatformDependent-main-DEBUG: Platform: Windows
+2017-06-19 11:54:05,159-io.netty.util.internal.PlatformDependent-main-DEBUG: Java version: 8
+2017-06-19 11:54:05,164-io.netty.util.internal.PlatformDependent-main-DEBUG: -Dio.netty.noUnsafe: false
+2017-06-19 11:54:05,164-io.netty.util.internal.PlatformDependent-main-DEBUG: sun.misc.Unsafe: available
+2017-06-19 11:54:05,165-io.netty.util.internal.PlatformDependent-main-DEBUG: -Dio.netty.noJavassist: false
+2017-06-19 11:54:05,272-io.netty.util.internal.PlatformDependent-main-DEBUG: Javassist: available
+2017-06-19 11:54:05,272-io.netty.util.internal.PlatformDependent-main-DEBUG: -Dio.netty.tmpdir: C:\Users\pc\AppData\Local\Temp (java.io.tmpdir)
+2017-06-19 11:54:05,272-io.netty.util.internal.PlatformDependent-main-DEBUG: -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2017-06-19 11:54:05,272-io.netty.util.internal.PlatformDependent-main-DEBUG: -Dio.netty.noPreferDirect: false
+2017-06-19 11:54:05,272-io.netty.util.internal.PlatformDependent-main-DEBUG: io.netty.maxDirectMemory: 1879048192 bytes
+2017-06-19 11:54:05,288-io.netty.channel.nio.NioEventLoop-main-DEBUG: -Dio.netty.noKeySetOptimization: false
+2017-06-19 11:54:05,288-io.netty.channel.nio.NioEventLoop-main-DEBUG: -Dio.netty.selectorAutoRebuildThreshold: 512
+2017-06-19 11:54:05,291-io.netty.util.internal.PlatformDependent-main-DEBUG: org.jctools-core.MpscChunkedArrayQueue: available
+2017-06-19 11:54:05,377-io.netty.channel.DefaultChannelId-main-DEBUG: -Dio.netty.processId: 3324 (auto-detected)
+2017-06-19 11:54:05,378-io.netty.util.NetUtil-main-DEBUG: -Djava.net.preferIPv4Stack: false
+2017-06-19 11:54:05,378-io.netty.util.NetUtil-main-DEBUG: -Djava.net.preferIPv6Addresses: false
+2017-06-19 11:54:05,433-io.netty.util.NetUtil-main-DEBUG: Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+2017-06-19 11:54:05,434-io.netty.util.NetUtil-main-DEBUG: \proc\sys\net\core\somaxconn: 200 (non-existent)
+2017-06-19 11:54:05,544-io.netty.channel.DefaultChannelId-main-DEBUG: -Dio.netty.machineId: 00:00:00:00:00:00:00:e0 (auto-detected)
+2017-06-19 11:54:05,545-io.netty.util.internal.ThreadLocalRandom-main-DEBUG: -Dio.netty.initialSeedUniquifier: 0x7cf30141d700fc0b
+2017-06-19 11:54:05,565-io.netty.util.ResourceLeakDetector-main-DEBUG: -Dio.netty.leakDetection.level: simple
+2017-06-19 11:54:05,566-io.netty.util.ResourceLeakDetector-main-DEBUG: -Dio.netty.leakDetection.maxRecords: 4
+2017-06-19 11:54:05,678-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.numHeapArenas: 8
+2017-06-19 11:54:05,678-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.numDirectArenas: 8
+2017-06-19 11:54:05,678-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.pageSize: 8192
+2017-06-19 11:54:05,678-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.maxOrder: 11
+2017-06-19 11:54:05,678-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.chunkSize: 16777216
+2017-06-19 11:54:05,678-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.tinyCacheSize: 512
+2017-06-19 11:54:05,678-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.smallCacheSize: 256
+2017-06-19 11:54:05,678-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.normalCacheSize: 64
+2017-06-19 11:54:05,678-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2017-06-19 11:54:05,678-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.cacheTrimInterval: 8192
+2017-06-19 11:54:05,705-io.netty.buffer.ByteBufUtil-main-DEBUG: -Dio.netty.allocator.type: pooled
+2017-06-19 11:54:05,705-io.netty.buffer.ByteBufUtil-main-DEBUG: -Dio.netty.threadLocalDirectBufferSize: 65536
+2017-06-19 11:54:05,705-io.netty.buffer.ByteBufUtil-main-DEBUG: -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2017-06-19 11:54:05,723-org.server.netty.NettyProtoServer-main-DEBUG: 服务端口为:7766
+2017-06-19 11:54:20,852-io.netty.util.internal.logging.InternalLoggerFactory-main-DEBUG: Using SLF4J as the default logging framework
+2017-06-19 11:54:20,858-io.netty.channel.MultithreadEventLoopGroup-main-DEBUG: -Dio.netty.eventLoopThreads: 8
+2017-06-19 11:54:20,879-io.netty.util.internal.PlatformDependent0-main-DEBUG: java.nio.Buffer.address: available
+2017-06-19 11:54:20,880-io.netty.util.internal.PlatformDependent0-main-DEBUG: sun.misc.Unsafe.theUnsafe: available
+2017-06-19 11:54:20,880-io.netty.util.internal.PlatformDependent0-main-DEBUG: sun.misc.Unsafe.copyMemory: available
+2017-06-19 11:54:20,881-io.netty.util.internal.PlatformDependent0-main-DEBUG: direct buffer constructor: available
+2017-06-19 11:54:20,881-io.netty.util.internal.PlatformDependent0-main-DEBUG: java.nio.Bits.unaligned: available, true
+2017-06-19 11:54:20,881-io.netty.util.internal.PlatformDependent0-main-DEBUG: java.nio.DirectByteBuffer.<init>(long, int): available
+2017-06-19 11:54:20,882-io.netty.util.internal.Cleaner0-main-DEBUG: java.nio.ByteBuffer.cleaner(): available
+2017-06-19 11:54:20,882-io.netty.util.internal.PlatformDependent-main-DEBUG: Platform: Windows
+2017-06-19 11:54:20,883-io.netty.util.internal.PlatformDependent-main-DEBUG: Java version: 8
+2017-06-19 11:54:20,883-io.netty.util.internal.PlatformDependent-main-DEBUG: -Dio.netty.noUnsafe: false
+2017-06-19 11:54:20,883-io.netty.util.internal.PlatformDependent-main-DEBUG: sun.misc.Unsafe: available
+2017-06-19 11:54:20,883-io.netty.util.internal.PlatformDependent-main-DEBUG: -Dio.netty.noJavassist: false
+2017-06-19 11:54:21,041-io.netty.util.internal.PlatformDependent-main-DEBUG: Javassist: available
+2017-06-19 11:54:21,041-io.netty.util.internal.PlatformDependent-main-DEBUG: -Dio.netty.tmpdir: C:\Users\pc\AppData\Local\Temp (java.io.tmpdir)
+2017-06-19 11:54:21,041-io.netty.util.internal.PlatformDependent-main-DEBUG: -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2017-06-19 11:54:21,041-io.netty.util.internal.PlatformDependent-main-DEBUG: -Dio.netty.noPreferDirect: false
+2017-06-19 11:54:21,041-io.netty.util.internal.PlatformDependent-main-DEBUG: io.netty.maxDirectMemory: 1879048192 bytes
+2017-06-19 11:54:21,064-io.netty.channel.nio.NioEventLoop-main-DEBUG: -Dio.netty.noKeySetOptimization: false
+2017-06-19 11:54:21,064-io.netty.channel.nio.NioEventLoop-main-DEBUG: -Dio.netty.selectorAutoRebuildThreshold: 512
+2017-06-19 11:54:21,066-io.netty.util.internal.PlatformDependent-main-DEBUG: org.jctools-core.MpscChunkedArrayQueue: available
+2017-06-19 11:54:21,119-io.netty.channel.DefaultChannelId-main-DEBUG: -Dio.netty.processId: 1660 (auto-detected)
+2017-06-19 11:54:21,122-io.netty.util.NetUtil-main-DEBUG: -Djava.net.preferIPv4Stack: false
+2017-06-19 11:54:21,122-io.netty.util.NetUtil-main-DEBUG: -Djava.net.preferIPv6Addresses: false
+2017-06-19 11:54:21,259-io.netty.util.NetUtil-main-DEBUG: Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+2017-06-19 11:54:21,260-io.netty.util.NetUtil-main-DEBUG: \proc\sys\net\core\somaxconn: 200 (non-existent)
+2017-06-19 11:54:21,372-io.netty.channel.DefaultChannelId-main-DEBUG: -Dio.netty.machineId: 00:00:00:00:00:00:00:e0 (auto-detected)
+2017-06-19 11:54:21,375-io.netty.util.internal.ThreadLocalRandom-main-DEBUG: -Dio.netty.initialSeedUniquifier: 0x36e1fbddddd64dfa
+2017-06-19 11:54:21,418-io.netty.util.ResourceLeakDetector-main-DEBUG: -Dio.netty.leakDetection.level: simple
+2017-06-19 11:54:21,418-io.netty.util.ResourceLeakDetector-main-DEBUG: -Dio.netty.leakDetection.maxRecords: 4
+2017-06-19 11:54:21,467-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.numHeapArenas: 8
+2017-06-19 11:54:21,467-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.numDirectArenas: 8
+2017-06-19 11:54:21,467-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.pageSize: 8192
+2017-06-19 11:54:21,467-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.maxOrder: 11
+2017-06-19 11:54:21,467-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.chunkSize: 16777216
+2017-06-19 11:54:21,467-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.tinyCacheSize: 512
+2017-06-19 11:54:21,467-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.smallCacheSize: 256
+2017-06-19 11:54:21,467-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.normalCacheSize: 64
+2017-06-19 11:54:21,470-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2017-06-19 11:54:21,470-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.cacheTrimInterval: 8192
+2017-06-19 11:54:21,483-io.netty.buffer.ByteBufUtil-main-DEBUG: -Dio.netty.allocator.type: pooled
+2017-06-19 11:54:21,484-io.netty.buffer.ByteBufUtil-main-DEBUG: -Dio.netty.threadLocalDirectBufferSize: 65536
+2017-06-19 11:54:21,484-io.netty.buffer.ByteBufUtil-main-DEBUG: -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2017-06-19 11:54:21,583-io.netty.util.internal.JavassistTypeParameterMatcherGenerator-nioEventLoopGroup-3-1-DEBUG: Generated: io.netty.util.internal.__matchers__.java.io.SerializableMatcher
+2017-06-19 11:54:21,627-io.netty.util.Recycler-nioEventLoopGroup-3-1-DEBUG: -Dio.netty.recycler.maxCapacityPerThread: 32768
+2017-06-19 11:54:21,627-io.netty.util.Recycler-nioEventLoopGroup-3-1-DEBUG: -Dio.netty.recycler.maxSharedCapacityFactor: 2
+2017-06-19 11:54:21,627-io.netty.util.Recycler-nioEventLoopGroup-3-1-DEBUG: -Dio.netty.recycler.linkCapacity: 16
+2017-06-19 11:54:21,627-io.netty.util.Recycler-nioEventLoopGroup-3-1-DEBUG: -Dio.netty.recycler.ratio: 8
+2017-06-19 11:54:21,637-io.netty.buffer.AbstractByteBuf-nioEventLoopGroup-3-1-DEBUG: -Dio.netty.buffer.bytebuf.checkAccessible: true
+2017-06-19 11:54:21,639-io.netty.util.ResourceLeakDetectorFactory-nioEventLoopGroup-3-1-DEBUG: Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@5743a6e6
+2017-06-19 11:54:21,530-io.netty.util.internal.JavassistTypeParameterMatcherGenerator-nioEventLoopGroup-2-1-DEBUG: Generated: io.netty.util.internal.__matchers__.java.io.SerializableMatcher
+2017-06-19 11:54:21,536-io.netty.util.internal.JavassistTypeParameterMatcherGenerator-nioEventLoopGroup-2-1-DEBUG: Generated: io.netty.util.internal.__matchers__.java.net.InetSocketAddressMatcher
+2017-06-19 11:54:21,542-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 文件总长度:9130
+2017-06-19 11:54:21,547-io.netty.util.Recycler-nioEventLoopGroup-2-1-DEBUG: -Dio.netty.recycler.maxCapacityPerThread: 32768
+2017-06-19 11:54:21,547-io.netty.util.Recycler-nioEventLoopGroup-2-1-DEBUG: -Dio.netty.recycler.maxSharedCapacityFactor: 2
+2017-06-19 11:54:21,547-io.netty.util.Recycler-nioEventLoopGroup-2-1-DEBUG: -Dio.netty.recycler.linkCapacity: 16
+2017-06-19 11:54:21,547-io.netty.util.Recycler-nioEventLoopGroup-2-1-DEBUG: -Dio.netty.recycler.ratio: 8
+2017-06-19 11:54:21,558-io.netty.buffer.AbstractByteBuf-nioEventLoopGroup-2-1-DEBUG: -Dio.netty.buffer.bytebuf.checkAccessible: true
+2017-06-19 11:54:21,559-io.netty.util.ResourceLeakDetectorFactory-nioEventLoopGroup-2-1-DEBUG: Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@6cdacc8d
+2017-06-19 11:54:21,664-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 服务器断开连接
+2017-06-19 11:54:30,721-io.netty.util.internal.logging.InternalLoggerFactory-main-DEBUG: Using SLF4J as the default logging framework
+2017-06-19 11:54:30,729-io.netty.channel.MultithreadEventLoopGroup-main-DEBUG: -Dio.netty.eventLoopThreads: 8
+2017-06-19 11:54:30,760-io.netty.util.internal.PlatformDependent0-main-DEBUG: java.nio.Buffer.address: available
+2017-06-19 11:54:30,760-io.netty.util.internal.PlatformDependent0-main-DEBUG: sun.misc.Unsafe.theUnsafe: available
+2017-06-19 11:54:30,761-io.netty.util.internal.PlatformDependent0-main-DEBUG: sun.misc.Unsafe.copyMemory: available
+2017-06-19 11:54:30,762-io.netty.util.internal.PlatformDependent0-main-DEBUG: direct buffer constructor: available
+2017-06-19 11:54:30,762-io.netty.util.internal.PlatformDependent0-main-DEBUG: java.nio.Bits.unaligned: available, true
+2017-06-19 11:54:30,762-io.netty.util.internal.PlatformDependent0-main-DEBUG: java.nio.DirectByteBuffer.<init>(long, int): available
+2017-06-19 11:54:30,764-io.netty.util.internal.Cleaner0-main-DEBUG: java.nio.ByteBuffer.cleaner(): available
+2017-06-19 11:54:30,765-io.netty.util.internal.PlatformDependent-main-DEBUG: Platform: Windows
+2017-06-19 11:54:30,765-io.netty.util.internal.PlatformDependent-main-DEBUG: Java version: 8
+2017-06-19 11:54:30,765-io.netty.util.internal.PlatformDependent-main-DEBUG: -Dio.netty.noUnsafe: false
+2017-06-19 11:54:30,765-io.netty.util.internal.PlatformDependent-main-DEBUG: sun.misc.Unsafe: available
+2017-06-19 11:54:30,766-io.netty.util.internal.PlatformDependent-main-DEBUG: -Dio.netty.noJavassist: false
+2017-06-19 11:54:30,883-io.netty.util.internal.PlatformDependent-main-DEBUG: Javassist: available
+2017-06-19 11:54:30,883-io.netty.util.internal.PlatformDependent-main-DEBUG: -Dio.netty.tmpdir: C:\Users\pc\AppData\Local\Temp (java.io.tmpdir)
+2017-06-19 11:54:30,883-io.netty.util.internal.PlatformDependent-main-DEBUG: -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2017-06-19 11:54:30,883-io.netty.util.internal.PlatformDependent-main-DEBUG: -Dio.netty.noPreferDirect: false
+2017-06-19 11:54:30,883-io.netty.util.internal.PlatformDependent-main-DEBUG: io.netty.maxDirectMemory: 1879048192 bytes
+2017-06-19 11:54:30,901-io.netty.channel.nio.NioEventLoop-main-DEBUG: -Dio.netty.noKeySetOptimization: false
+2017-06-19 11:54:30,901-io.netty.channel.nio.NioEventLoop-main-DEBUG: -Dio.netty.selectorAutoRebuildThreshold: 512
+2017-06-19 11:54:30,903-io.netty.util.internal.PlatformDependent-main-DEBUG: org.jctools-core.MpscChunkedArrayQueue: available
+2017-06-19 11:54:30,969-io.netty.channel.DefaultChannelId-main-DEBUG: -Dio.netty.processId: 9000 (auto-detected)
+2017-06-19 11:54:30,971-io.netty.util.NetUtil-main-DEBUG: -Djava.net.preferIPv4Stack: false
+2017-06-19 11:54:30,971-io.netty.util.NetUtil-main-DEBUG: -Djava.net.preferIPv6Addresses: false
+2017-06-19 11:54:31,025-io.netty.util.NetUtil-main-DEBUG: Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+2017-06-19 11:54:31,025-io.netty.util.NetUtil-main-DEBUG: \proc\sys\net\core\somaxconn: 200 (non-existent)
+2017-06-19 11:54:31,146-io.netty.channel.DefaultChannelId-main-DEBUG: -Dio.netty.machineId: 00:00:00:00:00:00:00:e0 (auto-detected)
+2017-06-19 11:54:31,148-io.netty.util.internal.ThreadLocalRandom-main-DEBUG: -Dio.netty.initialSeedUniquifier: 0x4a2dad2b7bb66c88
+2017-06-19 11:54:31,196-io.netty.util.ResourceLeakDetector-main-DEBUG: -Dio.netty.leakDetection.level: simple
+2017-06-19 11:54:31,196-io.netty.util.ResourceLeakDetector-main-DEBUG: -Dio.netty.leakDetection.maxRecords: 4
+2017-06-19 11:54:31,236-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.numHeapArenas: 8
+2017-06-19 11:54:31,236-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.numDirectArenas: 8
+2017-06-19 11:54:31,236-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.pageSize: 8192
+2017-06-19 11:54:31,236-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.maxOrder: 11
+2017-06-19 11:54:31,236-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.chunkSize: 16777216
+2017-06-19 11:54:31,236-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.tinyCacheSize: 512
+2017-06-19 11:54:31,236-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.smallCacheSize: 256
+2017-06-19 11:54:31,236-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.normalCacheSize: 64
+2017-06-19 11:54:31,236-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2017-06-19 11:54:31,236-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.cacheTrimInterval: 8192
+2017-06-19 11:54:31,255-io.netty.buffer.ByteBufUtil-main-DEBUG: -Dio.netty.allocator.type: pooled
+2017-06-19 11:54:31,255-io.netty.buffer.ByteBufUtil-main-DEBUG: -Dio.netty.threadLocalDirectBufferSize: 65536
+2017-06-19 11:54:31,255-io.netty.buffer.ByteBufUtil-main-DEBUG: -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2017-06-19 11:54:31,287-io.netty.util.internal.JavassistTypeParameterMatcherGenerator-nioEventLoopGroup-2-1-DEBUG: Generated: io.netty.util.internal.__matchers__.java.io.SerializableMatcher
+2017-06-19 11:54:31,293-io.netty.util.internal.JavassistTypeParameterMatcherGenerator-nioEventLoopGroup-2-1-DEBUG: Generated: io.netty.util.internal.__matchers__.java.net.InetSocketAddressMatcher
+2017-06-19 11:54:31,299-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 文件总长度:9130
+2017-06-19 11:54:31,305-io.netty.util.Recycler-nioEventLoopGroup-2-1-DEBUG: -Dio.netty.recycler.maxCapacityPerThread: 32768
+2017-06-19 11:54:31,305-io.netty.util.Recycler-nioEventLoopGroup-2-1-DEBUG: -Dio.netty.recycler.maxSharedCapacityFactor: 2
+2017-06-19 11:54:31,305-io.netty.util.Recycler-nioEventLoopGroup-2-1-DEBUG: -Dio.netty.recycler.linkCapacity: 16
+2017-06-19 11:54:31,305-io.netty.util.Recycler-nioEventLoopGroup-2-1-DEBUG: -Dio.netty.recycler.ratio: 8
+2017-06-19 11:54:31,317-io.netty.buffer.AbstractByteBuf-nioEventLoopGroup-2-1-DEBUG: -Dio.netty.buffer.bytebuf.checkAccessible: true
+2017-06-19 11:54:31,319-io.netty.util.ResourceLeakDetectorFactory-nioEventLoopGroup-2-1-DEBUG: Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@5ccd28c4
+2017-06-19 11:54:31,383-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 服务器断开连接
+2017-06-19 11:55:16,552-io.netty.util.internal.logging.InternalLoggerFactory-main-DEBUG: Using SLF4J as the default logging framework
+2017-06-19 11:55:16,567-io.netty.channel.MultithreadEventLoopGroup-main-DEBUG: -Dio.netty.eventLoopThreads: 8
+2017-06-19 11:55:16,590-io.netty.util.internal.PlatformDependent0-main-DEBUG: java.nio.Buffer.address: available
+2017-06-19 11:55:16,590-io.netty.util.internal.PlatformDependent0-main-DEBUG: sun.misc.Unsafe.theUnsafe: available
+2017-06-19 11:55:16,591-io.netty.util.internal.PlatformDependent0-main-DEBUG: sun.misc.Unsafe.copyMemory: available
+2017-06-19 11:55:16,592-io.netty.util.internal.PlatformDependent0-main-DEBUG: direct buffer constructor: available
+2017-06-19 11:55:16,592-io.netty.util.internal.PlatformDependent0-main-DEBUG: java.nio.Bits.unaligned: available, true
+2017-06-19 11:55:16,592-io.netty.util.internal.PlatformDependent0-main-DEBUG: java.nio.DirectByteBuffer.<init>(long, int): available
+2017-06-19 11:55:16,593-io.netty.util.internal.Cleaner0-main-DEBUG: java.nio.ByteBuffer.cleaner(): available
+2017-06-19 11:55:16,593-io.netty.util.internal.PlatformDependent-main-DEBUG: Platform: Windows
+2017-06-19 11:55:16,594-io.netty.util.internal.PlatformDependent-main-DEBUG: Java version: 8
+2017-06-19 11:55:16,594-io.netty.util.internal.PlatformDependent-main-DEBUG: -Dio.netty.noUnsafe: false
+2017-06-19 11:55:16,594-io.netty.util.internal.PlatformDependent-main-DEBUG: sun.misc.Unsafe: available
+2017-06-19 11:55:16,594-io.netty.util.internal.PlatformDependent-main-DEBUG: -Dio.netty.noJavassist: false
+2017-06-19 11:55:16,700-io.netty.util.internal.PlatformDependent-main-DEBUG: Javassist: available
+2017-06-19 11:55:16,700-io.netty.util.internal.PlatformDependent-main-DEBUG: -Dio.netty.tmpdir: C:\Users\pc\AppData\Local\Temp (java.io.tmpdir)
+2017-06-19 11:55:16,700-io.netty.util.internal.PlatformDependent-main-DEBUG: -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2017-06-19 11:55:16,700-io.netty.util.internal.PlatformDependent-main-DEBUG: -Dio.netty.noPreferDirect: false
+2017-06-19 11:55:16,700-io.netty.util.internal.PlatformDependent-main-DEBUG: io.netty.maxDirectMemory: 1879048192 bytes
+2017-06-19 11:55:16,716-io.netty.channel.nio.NioEventLoop-main-DEBUG: -Dio.netty.noKeySetOptimization: false
+2017-06-19 11:55:16,716-io.netty.channel.nio.NioEventLoop-main-DEBUG: -Dio.netty.selectorAutoRebuildThreshold: 512
+2017-06-19 11:55:16,718-io.netty.util.internal.PlatformDependent-main-DEBUG: org.jctools-core.MpscChunkedArrayQueue: available
+2017-06-19 11:55:16,775-io.netty.channel.DefaultChannelId-main-DEBUG: -Dio.netty.processId: 1432 (auto-detected)
+2017-06-19 11:55:16,776-io.netty.util.NetUtil-main-DEBUG: -Djava.net.preferIPv4Stack: false
+2017-06-19 11:55:16,776-io.netty.util.NetUtil-main-DEBUG: -Djava.net.preferIPv6Addresses: false
+2017-06-19 11:55:16,815-io.netty.util.NetUtil-main-DEBUG: Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+2017-06-19 11:55:16,815-io.netty.util.NetUtil-main-DEBUG: \proc\sys\net\core\somaxconn: 200 (non-existent)
+2017-06-19 11:55:16,866-io.netty.channel.DefaultChannelId-main-DEBUG: -Dio.netty.machineId: 00:00:00:00:00:00:00:e0 (auto-detected)
+2017-06-19 11:55:16,867-io.netty.util.internal.ThreadLocalRandom-main-DEBUG: -Dio.netty.initialSeedUniquifier: 0xc643ab21742d5760
+2017-06-19 11:55:16,884-io.netty.util.ResourceLeakDetector-main-DEBUG: -Dio.netty.leakDetection.level: simple
+2017-06-19 11:55:16,884-io.netty.util.ResourceLeakDetector-main-DEBUG: -Dio.netty.leakDetection.maxRecords: 4
+2017-06-19 11:55:16,909-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.numHeapArenas: 8
+2017-06-19 11:55:16,909-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.numDirectArenas: 8
+2017-06-19 11:55:16,909-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.pageSize: 8192
+2017-06-19 11:55:16,909-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.maxOrder: 11
+2017-06-19 11:55:16,909-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.chunkSize: 16777216
+2017-06-19 11:55:16,909-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.tinyCacheSize: 512
+2017-06-19 11:55:16,909-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.smallCacheSize: 256
+2017-06-19 11:55:16,909-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.normalCacheSize: 64
+2017-06-19 11:55:16,909-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2017-06-19 11:55:16,909-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.cacheTrimInterval: 8192
+2017-06-19 11:55:16,927-io.netty.buffer.ByteBufUtil-main-DEBUG: -Dio.netty.allocator.type: pooled
+2017-06-19 11:55:16,927-io.netty.buffer.ByteBufUtil-main-DEBUG: -Dio.netty.threadLocalDirectBufferSize: 65536
+2017-06-19 11:55:16,927-io.netty.buffer.ByteBufUtil-main-DEBUG: -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2017-06-19 11:55:16,937-org.server.netty.NettyProtoServer-main-DEBUG: 服务端口为:7766
+2017-06-19 11:55:23,620-io.netty.util.internal.logging.InternalLoggerFactory-main-DEBUG: Using SLF4J as the default logging framework
+2017-06-19 11:55:23,625-io.netty.channel.MultithreadEventLoopGroup-main-DEBUG: -Dio.netty.eventLoopThreads: 8
+2017-06-19 11:55:23,648-io.netty.util.internal.PlatformDependent0-main-DEBUG: java.nio.Buffer.address: available
+2017-06-19 11:55:23,648-io.netty.util.internal.PlatformDependent0-main-DEBUG: sun.misc.Unsafe.theUnsafe: available
+2017-06-19 11:55:23,648-io.netty.util.internal.PlatformDependent0-main-DEBUG: sun.misc.Unsafe.copyMemory: available
+2017-06-19 11:55:23,649-io.netty.util.internal.PlatformDependent0-main-DEBUG: direct buffer constructor: available
+2017-06-19 11:55:23,650-io.netty.util.internal.PlatformDependent0-main-DEBUG: java.nio.Bits.unaligned: available, true
+2017-06-19 11:55:23,650-io.netty.util.internal.PlatformDependent0-main-DEBUG: java.nio.DirectByteBuffer.<init>(long, int): available
+2017-06-19 11:55:23,650-io.netty.util.internal.Cleaner0-main-DEBUG: java.nio.ByteBuffer.cleaner(): available
+2017-06-19 11:55:23,651-io.netty.util.internal.PlatformDependent-main-DEBUG: Platform: Windows
+2017-06-19 11:55:23,651-io.netty.util.internal.PlatformDependent-main-DEBUG: Java version: 8
+2017-06-19 11:55:23,651-io.netty.util.internal.PlatformDependent-main-DEBUG: -Dio.netty.noUnsafe: false
+2017-06-19 11:55:23,651-io.netty.util.internal.PlatformDependent-main-DEBUG: sun.misc.Unsafe: available
+2017-06-19 11:55:23,652-io.netty.util.internal.PlatformDependent-main-DEBUG: -Dio.netty.noJavassist: false
+2017-06-19 11:55:23,811-io.netty.util.internal.PlatformDependent-main-DEBUG: Javassist: available
+2017-06-19 11:55:23,811-io.netty.util.internal.PlatformDependent-main-DEBUG: -Dio.netty.tmpdir: C:\Users\pc\AppData\Local\Temp (java.io.tmpdir)
+2017-06-19 11:55:23,811-io.netty.util.internal.PlatformDependent-main-DEBUG: -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2017-06-19 11:55:23,811-io.netty.util.internal.PlatformDependent-main-DEBUG: -Dio.netty.noPreferDirect: false
+2017-06-19 11:55:23,811-io.netty.util.internal.PlatformDependent-main-DEBUG: io.netty.maxDirectMemory: 1879048192 bytes
+2017-06-19 11:55:23,838-io.netty.channel.nio.NioEventLoop-main-DEBUG: -Dio.netty.noKeySetOptimization: false
+2017-06-19 11:55:23,838-io.netty.channel.nio.NioEventLoop-main-DEBUG: -Dio.netty.selectorAutoRebuildThreshold: 512
+2017-06-19 11:55:23,841-io.netty.util.internal.PlatformDependent-main-DEBUG: org.jctools-core.MpscChunkedArrayQueue: available
+2017-06-19 11:55:23,912-io.netty.channel.DefaultChannelId-main-DEBUG: -Dio.netty.processId: 9344 (auto-detected)
+2017-06-19 11:55:23,913-io.netty.util.NetUtil-main-DEBUG: -Djava.net.preferIPv4Stack: false
+2017-06-19 11:55:23,913-io.netty.util.NetUtil-main-DEBUG: -Djava.net.preferIPv6Addresses: false
+2017-06-19 11:55:23,963-io.netty.util.NetUtil-main-DEBUG: Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+2017-06-19 11:55:23,964-io.netty.util.NetUtil-main-DEBUG: \proc\sys\net\core\somaxconn: 200 (non-existent)
+2017-06-19 11:55:24,033-io.netty.channel.DefaultChannelId-main-DEBUG: -Dio.netty.machineId: 00:00:00:00:00:00:00:e0 (auto-detected)
+2017-06-19 11:55:24,034-io.netty.util.internal.ThreadLocalRandom-main-DEBUG: -Dio.netty.initialSeedUniquifier: 0x9f764ed32364085e
+2017-06-19 11:55:24,049-io.netty.util.ResourceLeakDetector-main-DEBUG: -Dio.netty.leakDetection.level: simple
+2017-06-19 11:55:24,049-io.netty.util.ResourceLeakDetector-main-DEBUG: -Dio.netty.leakDetection.maxRecords: 4
+2017-06-19 11:55:24,098-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.numHeapArenas: 8
+2017-06-19 11:55:24,098-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.numDirectArenas: 8
+2017-06-19 11:55:24,098-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.pageSize: 8192
+2017-06-19 11:55:24,098-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.maxOrder: 11
+2017-06-19 11:55:24,098-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.chunkSize: 16777216
+2017-06-19 11:55:24,098-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.tinyCacheSize: 512
+2017-06-19 11:55:24,098-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.smallCacheSize: 256
+2017-06-19 11:55:24,098-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.normalCacheSize: 64
+2017-06-19 11:55:24,098-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2017-06-19 11:55:24,098-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.cacheTrimInterval: 8192
+2017-06-19 11:55:24,115-io.netty.buffer.ByteBufUtil-main-DEBUG: -Dio.netty.allocator.type: pooled
+2017-06-19 11:55:24,115-io.netty.buffer.ByteBufUtil-main-DEBUG: -Dio.netty.threadLocalDirectBufferSize: 65536
+2017-06-19 11:55:24,115-io.netty.buffer.ByteBufUtil-main-DEBUG: -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2017-06-19 11:55:24,138-io.netty.util.internal.JavassistTypeParameterMatcherGenerator-nioEventLoopGroup-2-1-DEBUG: Generated: io.netty.util.internal.__matchers__.java.io.SerializableMatcher
+2017-06-19 11:55:24,144-io.netty.util.internal.JavassistTypeParameterMatcherGenerator-nioEventLoopGroup-2-1-DEBUG: Generated: io.netty.util.internal.__matchers__.java.net.InetSocketAddressMatcher
+2017-06-19 11:55:24,149-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 文件总长度:9130
+2017-06-19 11:55:24,166-io.netty.util.internal.JavassistTypeParameterMatcherGenerator-nioEventLoopGroup-3-1-DEBUG: Generated: io.netty.util.internal.__matchers__.java.io.SerializableMatcher
+2017-06-19 11:55:24,155-io.netty.util.Recycler-nioEventLoopGroup-2-1-DEBUG: -Dio.netty.recycler.maxCapacityPerThread: 32768
+2017-06-19 11:55:24,156-io.netty.util.Recycler-nioEventLoopGroup-2-1-DEBUG: -Dio.netty.recycler.maxSharedCapacityFactor: 2
+2017-06-19 11:55:24,156-io.netty.util.Recycler-nioEventLoopGroup-2-1-DEBUG: -Dio.netty.recycler.linkCapacity: 16
+2017-06-19 11:55:24,156-io.netty.util.Recycler-nioEventLoopGroup-2-1-DEBUG: -Dio.netty.recycler.ratio: 8
+2017-06-19 11:55:24,167-io.netty.buffer.AbstractByteBuf-nioEventLoopGroup-2-1-DEBUG: -Dio.netty.buffer.bytebuf.checkAccessible: true
+2017-06-19 11:55:24,168-io.netty.util.ResourceLeakDetectorFactory-nioEventLoopGroup-2-1-DEBUG: Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@5495d18d
+2017-06-19 11:55:24,217-io.netty.util.Recycler-nioEventLoopGroup-3-1-DEBUG: -Dio.netty.recycler.maxCapacityPerThread: 32768
+2017-06-19 11:55:24,217-io.netty.util.Recycler-nioEventLoopGroup-3-1-DEBUG: -Dio.netty.recycler.maxSharedCapacityFactor: 2
+2017-06-19 11:55:24,217-io.netty.util.Recycler-nioEventLoopGroup-3-1-DEBUG: -Dio.netty.recycler.linkCapacity: 16
+2017-06-19 11:55:24,217-io.netty.util.Recycler-nioEventLoopGroup-3-1-DEBUG: -Dio.netty.recycler.ratio: 8
+2017-06-19 11:55:24,227-io.netty.buffer.AbstractByteBuf-nioEventLoopGroup-3-1-DEBUG: -Dio.netty.buffer.bytebuf.checkAccessible: true
+2017-06-19 11:55:24,229-io.netty.util.ResourceLeakDetectorFactory-nioEventLoopGroup-3-1-DEBUG: Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@335b8b94
+2017-06-19 11:55:24,253-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 服务器断开连接
+2017-06-19 11:56:05,679-io.netty.util.internal.logging.InternalLoggerFactory-main-DEBUG: Using SLF4J as the default logging framework
+2017-06-19 11:56:05,692-io.netty.channel.MultithreadEventLoopGroup-main-DEBUG: -Dio.netty.eventLoopThreads: 8
+2017-06-19 11:56:05,713-io.netty.util.internal.PlatformDependent0-main-DEBUG: java.nio.Buffer.address: available
+2017-06-19 11:56:05,714-io.netty.util.internal.PlatformDependent0-main-DEBUG: sun.misc.Unsafe.theUnsafe: available
+2017-06-19 11:56:05,715-io.netty.util.internal.PlatformDependent0-main-DEBUG: sun.misc.Unsafe.copyMemory: available
+2017-06-19 11:56:05,717-io.netty.util.internal.PlatformDependent0-main-DEBUG: direct buffer constructor: available
+2017-06-19 11:56:05,718-io.netty.util.internal.PlatformDependent0-main-DEBUG: java.nio.Bits.unaligned: available, true
+2017-06-19 11:56:05,718-io.netty.util.internal.PlatformDependent0-main-DEBUG: java.nio.DirectByteBuffer.<init>(long, int): available
+2017-06-19 11:56:05,719-io.netty.util.internal.Cleaner0-main-DEBUG: java.nio.ByteBuffer.cleaner(): available
+2017-06-19 11:56:05,719-io.netty.util.internal.PlatformDependent-main-DEBUG: Platform: Windows
+2017-06-19 11:56:05,720-io.netty.util.internal.PlatformDependent-main-DEBUG: Java version: 8
+2017-06-19 11:56:05,720-io.netty.util.internal.PlatformDependent-main-DEBUG: -Dio.netty.noUnsafe: false
+2017-06-19 11:56:05,720-io.netty.util.internal.PlatformDependent-main-DEBUG: sun.misc.Unsafe: available
+2017-06-19 11:56:05,720-io.netty.util.internal.PlatformDependent-main-DEBUG: -Dio.netty.noJavassist: false
+2017-06-19 11:56:05,840-io.netty.util.internal.PlatformDependent-main-DEBUG: Javassist: available
+2017-06-19 11:56:05,841-io.netty.util.internal.PlatformDependent-main-DEBUG: -Dio.netty.tmpdir: C:\Users\pc\AppData\Local\Temp (java.io.tmpdir)
+2017-06-19 11:56:05,841-io.netty.util.internal.PlatformDependent-main-DEBUG: -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2017-06-19 11:56:05,841-io.netty.util.internal.PlatformDependent-main-DEBUG: -Dio.netty.noPreferDirect: false
+2017-06-19 11:56:05,841-io.netty.util.internal.PlatformDependent-main-DEBUG: io.netty.maxDirectMemory: 1879048192 bytes
+2017-06-19 11:56:05,853-io.netty.channel.nio.NioEventLoop-main-DEBUG: -Dio.netty.noKeySetOptimization: false
+2017-06-19 11:56:05,853-io.netty.channel.nio.NioEventLoop-main-DEBUG: -Dio.netty.selectorAutoRebuildThreshold: 512
+2017-06-19 11:56:05,855-io.netty.util.internal.PlatformDependent-main-DEBUG: org.jctools-core.MpscChunkedArrayQueue: available
+2017-06-19 11:56:05,916-io.netty.channel.DefaultChannelId-main-DEBUG: -Dio.netty.processId: 11700 (auto-detected)
+2017-06-19 11:56:05,917-io.netty.util.NetUtil-main-DEBUG: -Djava.net.preferIPv4Stack: false
+2017-06-19 11:56:05,917-io.netty.util.NetUtil-main-DEBUG: -Djava.net.preferIPv6Addresses: false
+2017-06-19 11:56:05,964-io.netty.util.NetUtil-main-DEBUG: Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+2017-06-19 11:56:05,965-io.netty.util.NetUtil-main-DEBUG: \proc\sys\net\core\somaxconn: 200 (non-existent)
+2017-06-19 11:56:06,014-io.netty.channel.DefaultChannelId-main-DEBUG: -Dio.netty.machineId: 00:00:00:00:00:00:00:e0 (auto-detected)
+2017-06-19 11:56:06,016-io.netty.util.internal.ThreadLocalRandom-main-DEBUG: -Dio.netty.initialSeedUniquifier: 0x4d192b598af4ac0a
+2017-06-19 11:56:06,030-io.netty.util.ResourceLeakDetector-main-DEBUG: -Dio.netty.leakDetection.level: simple
+2017-06-19 11:56:06,030-io.netty.util.ResourceLeakDetector-main-DEBUG: -Dio.netty.leakDetection.maxRecords: 4
+2017-06-19 11:56:06,079-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.numHeapArenas: 8
+2017-06-19 11:56:06,080-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.numDirectArenas: 8
+2017-06-19 11:56:06,080-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.pageSize: 8192
+2017-06-19 11:56:06,080-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.maxOrder: 11
+2017-06-19 11:56:06,080-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.chunkSize: 16777216
+2017-06-19 11:56:06,080-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.tinyCacheSize: 512
+2017-06-19 11:56:06,080-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.smallCacheSize: 256
+2017-06-19 11:56:06,080-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.normalCacheSize: 64
+2017-06-19 11:56:06,080-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2017-06-19 11:56:06,080-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.cacheTrimInterval: 8192
+2017-06-19 11:56:06,097-io.netty.buffer.ByteBufUtil-main-DEBUG: -Dio.netty.allocator.type: pooled
+2017-06-19 11:56:06,097-io.netty.buffer.ByteBufUtil-main-DEBUG: -Dio.netty.threadLocalDirectBufferSize: 65536
+2017-06-19 11:56:06,097-io.netty.buffer.ByteBufUtil-main-DEBUG: -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2017-06-19 11:56:06,123-org.server.netty.NettyProtoServer-main-DEBUG: 服务端口为:7766
+2017-06-19 11:56:12,388-io.netty.util.internal.logging.InternalLoggerFactory-main-DEBUG: Using SLF4J as the default logging framework
+2017-06-19 11:56:12,395-io.netty.channel.MultithreadEventLoopGroup-main-DEBUG: -Dio.netty.eventLoopThreads: 8
+2017-06-19 11:56:12,418-io.netty.util.internal.PlatformDependent0-main-DEBUG: java.nio.Buffer.address: available
+2017-06-19 11:56:12,419-io.netty.util.internal.PlatformDependent0-main-DEBUG: sun.misc.Unsafe.theUnsafe: available
+2017-06-19 11:56:12,419-io.netty.util.internal.PlatformDependent0-main-DEBUG: sun.misc.Unsafe.copyMemory: available
+2017-06-19 11:56:12,420-io.netty.util.internal.PlatformDependent0-main-DEBUG: direct buffer constructor: available
+2017-06-19 11:56:12,421-io.netty.util.internal.PlatformDependent0-main-DEBUG: java.nio.Bits.unaligned: available, true
+2017-06-19 11:56:12,421-io.netty.util.internal.PlatformDependent0-main-DEBUG: java.nio.DirectByteBuffer.<init>(long, int): available
+2017-06-19 11:56:12,422-io.netty.util.internal.Cleaner0-main-DEBUG: java.nio.ByteBuffer.cleaner(): available
+2017-06-19 11:56:12,422-io.netty.util.internal.PlatformDependent-main-DEBUG: Platform: Windows
+2017-06-19 11:56:12,422-io.netty.util.internal.PlatformDependent-main-DEBUG: Java version: 8
+2017-06-19 11:56:12,422-io.netty.util.internal.PlatformDependent-main-DEBUG: -Dio.netty.noUnsafe: false
+2017-06-19 11:56:12,422-io.netty.util.internal.PlatformDependent-main-DEBUG: sun.misc.Unsafe: available
+2017-06-19 11:56:12,423-io.netty.util.internal.PlatformDependent-main-DEBUG: -Dio.netty.noJavassist: false
+2017-06-19 11:56:12,538-io.netty.util.internal.PlatformDependent-main-DEBUG: Javassist: available
+2017-06-19 11:56:12,538-io.netty.util.internal.PlatformDependent-main-DEBUG: -Dio.netty.tmpdir: C:\Users\pc\AppData\Local\Temp (java.io.tmpdir)
+2017-06-19 11:56:12,538-io.netty.util.internal.PlatformDependent-main-DEBUG: -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2017-06-19 11:56:12,538-io.netty.util.internal.PlatformDependent-main-DEBUG: -Dio.netty.noPreferDirect: false
+2017-06-19 11:56:12,538-io.netty.util.internal.PlatformDependent-main-DEBUG: io.netty.maxDirectMemory: 1879048192 bytes
+2017-06-19 11:56:12,560-io.netty.channel.nio.NioEventLoop-main-DEBUG: -Dio.netty.noKeySetOptimization: false
+2017-06-19 11:56:12,561-io.netty.channel.nio.NioEventLoop-main-DEBUG: -Dio.netty.selectorAutoRebuildThreshold: 512
+2017-06-19 11:56:12,566-io.netty.util.internal.PlatformDependent-main-DEBUG: org.jctools-core.MpscChunkedArrayQueue: available
+2017-06-19 11:56:12,632-io.netty.channel.DefaultChannelId-main-DEBUG: -Dio.netty.processId: 11980 (auto-detected)
+2017-06-19 11:56:12,634-io.netty.util.NetUtil-main-DEBUG: -Djava.net.preferIPv4Stack: false
+2017-06-19 11:56:12,634-io.netty.util.NetUtil-main-DEBUG: -Djava.net.preferIPv6Addresses: false
+2017-06-19 11:56:12,738-io.netty.util.NetUtil-main-DEBUG: Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+2017-06-19 11:56:12,739-io.netty.util.NetUtil-main-DEBUG: \proc\sys\net\core\somaxconn: 200 (non-existent)
+2017-06-19 11:56:12,808-io.netty.channel.DefaultChannelId-main-DEBUG: -Dio.netty.machineId: 00:00:00:00:00:00:00:e0 (auto-detected)
+2017-06-19 11:56:12,810-io.netty.util.internal.ThreadLocalRandom-main-DEBUG: -Dio.netty.initialSeedUniquifier: 0x0d896379f9f593c6
+2017-06-19 11:56:12,850-io.netty.util.ResourceLeakDetector-main-DEBUG: -Dio.netty.leakDetection.level: simple
+2017-06-19 11:56:12,850-io.netty.util.ResourceLeakDetector-main-DEBUG: -Dio.netty.leakDetection.maxRecords: 4
+2017-06-19 11:56:12,874-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.numHeapArenas: 8
+2017-06-19 11:56:12,874-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.numDirectArenas: 8
+2017-06-19 11:56:12,874-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.pageSize: 8192
+2017-06-19 11:56:12,874-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.maxOrder: 11
+2017-06-19 11:56:12,874-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.chunkSize: 16777216
+2017-06-19 11:56:12,874-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.tinyCacheSize: 512
+2017-06-19 11:56:12,874-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.smallCacheSize: 256
+2017-06-19 11:56:12,874-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.normalCacheSize: 64
+2017-06-19 11:56:12,875-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2017-06-19 11:56:12,876-io.netty.buffer.PooledByteBufAllocator-main-DEBUG: -Dio.netty.allocator.cacheTrimInterval: 8192
+2017-06-19 11:56:12,898-io.netty.buffer.ByteBufUtil-main-DEBUG: -Dio.netty.allocator.type: pooled
+2017-06-19 11:56:12,898-io.netty.buffer.ByteBufUtil-main-DEBUG: -Dio.netty.threadLocalDirectBufferSize: 65536
+2017-06-19 11:56:12,898-io.netty.buffer.ByteBufUtil-main-DEBUG: -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2017-06-19 11:56:12,929-io.netty.util.internal.JavassistTypeParameterMatcherGenerator-nioEventLoopGroup-2-1-DEBUG: Generated: io.netty.util.internal.__matchers__.java.io.SerializableMatcher
+2017-06-19 11:56:12,935-io.netty.util.internal.JavassistTypeParameterMatcherGenerator-nioEventLoopGroup-2-1-DEBUG: Generated: io.netty.util.internal.__matchers__.java.net.InetSocketAddressMatcher
+2017-06-19 11:56:12,940-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 文件总长度:9130
+2017-06-19 11:56:12,946-io.netty.util.Recycler-nioEventLoopGroup-2-1-DEBUG: -Dio.netty.recycler.maxCapacityPerThread: 32768
+2017-06-19 11:56:12,946-io.netty.util.Recycler-nioEventLoopGroup-2-1-DEBUG: -Dio.netty.recycler.maxSharedCapacityFactor: 2
+2017-06-19 11:56:12,946-io.netty.util.Recycler-nioEventLoopGroup-2-1-DEBUG: -Dio.netty.recycler.linkCapacity: 16
+2017-06-19 11:56:12,946-io.netty.util.Recycler-nioEventLoopGroup-2-1-DEBUG: -Dio.netty.recycler.ratio: 8
+2017-06-19 11:56:12,961-io.netty.util.internal.JavassistTypeParameterMatcherGenerator-nioEventLoopGroup-3-1-DEBUG: Generated: io.netty.util.internal.__matchers__.java.io.SerializableMatcher
+2017-06-19 11:56:12,957-io.netty.buffer.AbstractByteBuf-nioEventLoopGroup-2-1-DEBUG: -Dio.netty.buffer.bytebuf.checkAccessible: true
+2017-06-19 11:56:12,959-io.netty.util.ResourceLeakDetectorFactory-nioEventLoopGroup-2-1-DEBUG: Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@f14c1d8
+2017-06-19 11:56:12,982-io.netty.util.Recycler-nioEventLoopGroup-3-1-DEBUG: -Dio.netty.recycler.maxCapacityPerThread: 32768
+2017-06-19 11:56:12,982-io.netty.util.Recycler-nioEventLoopGroup-3-1-DEBUG: -Dio.netty.recycler.maxSharedCapacityFactor: 2
+2017-06-19 11:56:12,982-io.netty.util.Recycler-nioEventLoopGroup-3-1-DEBUG: -Dio.netty.recycler.linkCapacity: 16
+2017-06-19 11:56:12,982-io.netty.util.Recycler-nioEventLoopGroup-3-1-DEBUG: -Dio.netty.recycler.ratio: 8
+2017-06-19 11:56:12,992-io.netty.buffer.AbstractByteBuf-nioEventLoopGroup-3-1-DEBUG: -Dio.netty.buffer.bytebuf.checkAccessible: true
+2017-06-19 11:56:12,993-io.netty.util.ResourceLeakDetectorFactory-nioEventLoopGroup-3-1-DEBUG: Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@7971f222
+2017-06-19 11:56:13,009-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 总包数：9
+2017-06-19 11:56:13,009-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 收到第1包
+2017-06-19 11:56:13,009-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 本包字节数:1024
+2017-06-19 11:56:13,025-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 总包数：9
+2017-06-19 11:56:13,025-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 收到第1包
+2017-06-19 11:56:13,025-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 本包字节数:1024
+2017-06-19 11:56:13,030-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 总包数：9
+2017-06-19 11:56:13,030-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 收到第1包
+2017-06-19 11:56:13,030-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 本包字节数:1024
+2017-06-19 11:56:13,035-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 总包数：9
+2017-06-19 11:56:13,035-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 收到第1包
+2017-06-19 11:56:13,035-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 本包字节数:1024
+2017-06-19 11:56:13,040-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 总包数：9
+2017-06-19 11:56:13,040-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 收到第1包
+2017-06-19 11:56:13,040-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 本包字节数:1024
+2017-06-19 11:56:13,045-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 总包数：9
+2017-06-19 11:56:13,045-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 收到第2包
+2017-06-19 11:56:13,045-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 本包字节数:1024
+2017-06-19 11:56:13,050-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 总包数：9
+2017-06-19 11:56:13,050-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 收到第2包
+2017-06-19 11:56:13,050-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 本包字节数:1024
+2017-06-19 11:56:13,024-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 剩余文件长度:8106
+2017-06-19 11:56:13,025-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 剩余文件长度:8106
+2017-06-19 11:56:13,030-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 剩余文件长度:8106
+2017-06-19 11:56:13,036-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 剩余文件长度:8106
+2017-06-19 11:56:13,041-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 剩余文件长度:8106
+2017-06-19 11:56:13,046-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 剩余文件长度:7082
+2017-06-19 11:56:13,051-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 剩余文件长度:7082
+2017-06-19 11:56:13,056-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 剩余文件长度:7082
+2017-06-19 11:56:13,062-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 剩余文件长度:7082
+2017-06-19 11:56:13,055-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 总包数：9
+2017-06-19 11:56:13,055-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 收到第2包
+2017-06-19 11:56:13,055-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 本包字节数:1024
+2017-06-19 11:56:13,061-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 总包数：9
+2017-06-19 11:56:13,061-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 收到第2包
+2017-06-19 11:56:13,061-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 本包字节数:1024
+2017-06-19 11:56:13,067-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 剩余文件长度:7082
+2017-06-19 11:56:13,066-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 总包数：9
+2017-06-19 11:56:13,066-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 收到第2包
+2017-06-19 11:56:13,066-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 本包字节数:1024
+2017-06-19 11:56:13,072-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 剩余文件长度:6058
+2017-06-19 11:56:13,072-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 总包数：9
+2017-06-19 11:56:13,072-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 收到第3包
+2017-06-19 11:56:13,072-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 本包字节数:1024
+2017-06-19 11:56:13,076-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 总包数：9
+2017-06-19 11:56:13,076-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 收到第3包
+2017-06-19 11:56:13,076-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 本包字节数:1024
+2017-06-19 11:56:13,077-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 剩余文件长度:6058
+2017-06-19 11:56:13,081-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 总包数：9
+2017-06-19 11:56:13,081-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 收到第3包
+2017-06-19 11:56:13,081-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 本包字节数:1024
+2017-06-19 11:56:13,082-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 剩余文件长度:6058
+2017-06-19 11:56:13,087-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 总包数：9
+2017-06-19 11:56:13,087-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 收到第3包
+2017-06-19 11:56:13,087-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 本包字节数:1024
+2017-06-19 11:56:13,087-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 剩余文件长度:6058
+2017-06-19 11:56:13,092-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 总包数：9
+2017-06-19 11:56:13,092-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 收到第3包
+2017-06-19 11:56:13,092-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 本包字节数:1024
+2017-06-19 11:56:13,093-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 剩余文件长度:6058
+2017-06-19 11:56:13,097-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 总包数：9
+2017-06-19 11:56:13,097-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 收到第4包
+2017-06-19 11:56:13,097-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 本包字节数:1024
+2017-06-19 11:56:13,098-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 剩余文件长度:5034
+2017-06-19 11:56:13,102-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 总包数：9
+2017-06-19 11:56:13,102-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 收到第4包
+2017-06-19 11:56:13,102-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 本包字节数:1024
+2017-06-19 11:56:13,103-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 剩余文件长度:5034
+2017-06-19 11:56:13,107-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 总包数：9
+2017-06-19 11:56:13,107-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 收到第4包
+2017-06-19 11:56:13,107-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 本包字节数:1024
+2017-06-19 11:56:13,108-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 剩余文件长度:5034
+2017-06-19 11:56:13,113-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 总包数：9
+2017-06-19 11:56:13,113-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 收到第4包
+2017-06-19 11:56:13,113-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 本包字节数:1024
+2017-06-19 11:56:13,113-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 剩余文件长度:5034
+2017-06-19 11:56:13,118-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 总包数：9
+2017-06-19 11:56:13,118-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 收到第4包
+2017-06-19 11:56:13,118-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 本包字节数:1024
+2017-06-19 11:56:13,118-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 剩余文件长度:5034
+2017-06-19 11:56:13,123-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 总包数：9
+2017-06-19 11:56:13,123-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 收到第5包
+2017-06-19 11:56:13,123-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 本包字节数:1024
+2017-06-19 11:56:13,123-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 剩余文件长度:4010
+2017-06-19 11:56:13,127-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 总包数：9
+2017-06-19 11:56:13,127-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 收到第5包
+2017-06-19 11:56:13,127-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 本包字节数:1024
+2017-06-19 11:56:13,128-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 剩余文件长度:4010
+2017-06-19 11:56:13,133-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 总包数：9
+2017-06-19 11:56:13,133-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 收到第5包
+2017-06-19 11:56:13,133-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 本包字节数:1024
+2017-06-19 11:56:13,138-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 总包数：9
+2017-06-19 11:56:13,138-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 收到第5包
+2017-06-19 11:56:13,138-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 本包字节数:1024
+2017-06-19 11:56:13,134-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 剩余文件长度:4010
+2017-06-19 11:56:13,138-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 剩余文件长度:4010
+2017-06-19 11:56:13,144-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 剩余文件长度:4010
+2017-06-19 11:56:13,149-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 剩余文件长度:2986
+2017-06-19 11:56:13,155-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 剩余文件长度:2986
+2017-06-19 11:56:13,143-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 总包数：9
+2017-06-19 11:56:13,143-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 收到第5包
+2017-06-19 11:56:13,143-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 本包字节数:1024
+2017-06-19 11:56:13,148-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 总包数：9
+2017-06-19 11:56:13,148-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 收到第6包
+2017-06-19 11:56:13,148-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 本包字节数:1024
+2017-06-19 11:56:13,154-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 总包数：9
+2017-06-19 11:56:13,154-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 收到第6包
+2017-06-19 11:56:13,154-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 本包字节数:1024
+2017-06-19 11:56:13,159-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 总包数：9
+2017-06-19 11:56:13,159-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 收到第6包
+2017-06-19 11:56:13,159-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 本包字节数:1024
+2017-06-19 11:56:13,164-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 总包数：9
+2017-06-19 11:56:13,164-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 收到第6包
+2017-06-19 11:56:13,164-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 本包字节数:1024
+2017-06-19 11:56:13,160-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 剩余文件长度:2986
+2017-06-19 11:56:13,165-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 剩余文件长度:2986
+2017-06-19 11:56:13,169-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 总包数：9
+2017-06-19 11:56:13,169-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 收到第6包
+2017-06-19 11:56:13,169-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 本包字节数:1024
+2017-06-19 11:56:13,174-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 总包数：9
+2017-06-19 11:56:13,174-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 收到第7包
+2017-06-19 11:56:13,174-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 本包字节数:1024
+2017-06-19 11:56:13,170-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 剩余文件长度:2986
+2017-06-19 11:56:13,175-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 剩余文件长度:1962
+2017-06-19 11:56:13,179-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 总包数：9
+2017-06-19 11:56:13,179-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 收到第7包
+2017-06-19 11:56:13,179-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 本包字节数:1024
+2017-06-19 11:56:13,180-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 剩余文件长度:1962
+2017-06-19 11:56:13,185-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 剩余文件长度:1962
+2017-06-19 11:56:13,184-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 总包数：9
+2017-06-19 11:56:13,184-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 收到第7包
+2017-06-19 11:56:13,184-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 本包字节数:1024
+2017-06-19 11:56:13,189-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 总包数：9
+2017-06-19 11:56:13,189-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 收到第7包
+2017-06-19 11:56:13,189-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 本包字节数:1024
+2017-06-19 11:56:13,189-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 剩余文件长度:1962
+2017-06-19 11:56:13,193-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 总包数：9
+2017-06-19 11:56:13,193-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 收到第7包
+2017-06-19 11:56:13,193-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 本包字节数:1024
+2017-06-19 11:56:13,194-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 剩余文件长度:1962
+2017-06-19 11:56:13,198-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 总包数：9
+2017-06-19 11:56:13,198-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 收到第8包
+2017-06-19 11:56:13,198-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 本包字节数:1024
+2017-06-19 11:56:13,198-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 剩余文件长度:938
+2017-06-19 11:56:13,198-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 小于固定长度：938
+2017-06-19 11:56:13,202-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 总包数：9
+2017-06-19 11:56:13,202-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 收到第8包
+2017-06-19 11:56:13,202-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 本包字节数:1024
+2017-06-19 11:56:13,202-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 剩余文件长度:938
+2017-06-19 11:56:13,202-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 小于固定长度：938
+2017-06-19 11:56:13,206-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 总包数：9
+2017-06-19 11:56:13,207-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 收到第8包
+2017-06-19 11:56:13,207-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 本包字节数:1024
+2017-06-19 11:56:13,207-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 剩余文件长度:938
+2017-06-19 11:56:13,207-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 小于固定长度：938
+2017-06-19 11:56:13,210-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 总包数：9
+2017-06-19 11:56:13,210-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 收到第8包
+2017-06-19 11:56:13,210-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 本包字节数:1024
+2017-06-19 11:56:13,211-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 剩余文件长度:938
+2017-06-19 11:56:13,211-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 小于固定长度：938
+2017-06-19 11:56:13,215-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 总包数：9
+2017-06-19 11:56:13,215-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 收到第8包
+2017-06-19 11:56:13,215-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 本包字节数:1024
+2017-06-19 11:56:13,215-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 剩余文件长度:938
+2017-06-19 11:56:13,215-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 小于固定长度：938
+2017-06-19 11:56:13,219-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 总包数：9
+2017-06-19 11:56:13,219-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 收到第9包
+2017-06-19 11:56:13,219-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 本包字节数:938
+2017-06-19 11:56:13,224-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 总包数：9
+2017-06-19 11:56:13,224-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 收到第9包
+2017-06-19 11:56:13,224-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 本包字节数:938
+2017-06-19 11:56:13,228-org.client.CardClientHandler-nioEventLoopGroup-2-1-DEBUG: 服务器断开连接
+2017-06-19 11:56:13,229-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 总包数：9
+2017-06-19 11:56:13,229-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 收到第9包
+2017-06-19 11:56:13,229-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 本包字节数:938
+2017-06-19 11:56:13,233-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 总包数：9
+2017-06-19 11:56:13,233-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 收到第9包
+2017-06-19 11:56:13,233-org.server.netty.handler.EchoServerHandler-nioEventLoopGroup-3-1-DEBUG: 本包字节数:938
